@@ -76,7 +76,7 @@ h2 {
 	font-weight: 600; /* underlined text */
 	text-decoration: none; /* foreground color: dark blue */
 	color: Black; /* background color: gray */
-	background-color: Orange; /* margin settings are top - right - bottom - left (think clockwise) */
+	background-color: #fff; /* margin settings are top - right - bottom - left (think clockwise) */
 	margin: 15px 0 15px 0; /* padding ("inner margin") settings are top - right - bottom - left */
 /* (think clockwise)                                                 */
 	padding: 8px 15px 8px 15px; 
@@ -340,11 +340,10 @@ h1
 	font-weight: 600; /* line height, relative to body line height */
 	line-height: 250%; /* center */
 	text-align: center; /* foreground color: dark blue */
-	color: Black; /* background color: gray */
-	background-color: Orange; /* margin settings are top - right - bottom - left (think clockwise) */
+	color: #ef3e56; /* background color: gray */
+	background-color: #fff; /* margin settings are top - right - bottom - left (think clockwise) */
 	margin: 15px 0 15px 0; /* no padding ("inner margin") */
 	padding: 15;
-	border: 1px solid #000;	
 }
 
 
@@ -412,7 +411,7 @@ div.legalnotice
 	font-family: Verdana, Arial, Helvetica, Sans-Serif; /* font size, relative to body font size */
 	font-size: 90%; /* color: black */
 	color: #000; /* background color: gray */
-	background-color: Orange; /* margin settings are top - right - bottom - left (think clockwise) */
+	background-color: #fff; /* margin settings are top - right - bottom - left (think clockwise) */
 	margin: 10px 45px 10px 45px; /* padding ("inner margin") settings are top - right - bottom - left */
 	padding: 5px 5px 5px 5px; /* solid black border, 1px wide */
 	border: 1px solid #000;
