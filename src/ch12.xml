@@ -17,22 +17,30 @@
 	</para>
 	<informalfigure xreflabel="Fig 49">
 		<mediaobject>
-			<imageobject fileref="resource/INF-6-055.jpg"/>
+			<imageobject>
+				<imagedata fileref="resource/INF-6-055.jpg"/>
+			</imageobject>
 		</mediaobject>
 	</informalfigure>
 	<informalfigure xreflabel="Fig 50">
 		<mediaobject>
-			<imageobject fileref="resource/INF-6-056.jpg"/>
+			<imageobject>
+				<imagedata fileref="resource/INF-6-056.jpg"/>
+			</imageobject>
 		</mediaobject>
 	</informalfigure>
 	<informalfigure xreflabel="Fig 51">
 		<mediaobject>
-			<imageobject fileref="resource/INF-6-057.jpg"/>
+			<imageobject>
+				<imagedata fileref="resource/INF-6-057.jpg"/>
+			</imageobject>
 		</mediaobject>
 	</informalfigure>
 	<informalfigure xreflabel="Fig 52">
 		<mediaobject>
-			<imageobject fileref="resource/INF-6-058.jpg"/>
+			<imageobject>
+				<imagedata fileref="resource/INF-6-058.jpg"/>
+			</imageobject>
 		</mediaobject>
 		<caption><para>Distintos tipos de códigos bidimensionales con la URL de APEI.</para></caption>
 	</informalfigure>
@@ -64,12 +72,16 @@
 	</para>
 	<informalfigure xreflabel="Fig 53">
 		<mediaobject>
-			<imageobject fileref="resource/INF-6-059.jpg"/>
+			<imageobject>
+				<imagedata fileref="resource/INF-6-059.jpg"/>
+			</imageobject>
 		</mediaobject>
 	</informalfigure>
 	<informalfigure xreflabel="Fig 54">
 		<mediaobject>
-			<imageobject fileref="resource/INF-6-060.jpg"/>
+			<imageobject>
+				<imagedata fileref="resource/INF-6-060.jpg"/>
+			</imageobject>
 		</mediaobject>
 		<caption><para>Utilidades prácticas de los códigos bidimensionales.</para></caption>
 	</informalfigure>
@@ -110,7 +122,9 @@
 	</itemizedlist>
 	<informalfigure xreflabel="Fig 55">
 		<mediaobject>
-			<imageobject fileref="resource/INF-6-061.jpg"/>
+			<imageobject>
+				<imagedata fileref="resource/INF-6-061.jpg"/>
+			</imageobject>
 		</mediaobject>
 		<caption><para>Códigos bidimensionales en el catálogo de la Universidad de Bath.</para></caption>
 	</informalfigure>
@@ -132,7 +146,9 @@
 	</para>
 	<informalfigure xreflabel="Fig 65">
 		<mediaobject>
-			<imageobject fileref="resource/INF-6-062.jpg"/>
+			<imageobject>
+				<imagedata fileref="resource/INF-6-062.jpg"/>
+			</imageobject>
 		</mediaobject>
 		<caption><para>Red Laser</para></caption>
 	</informalfigure>

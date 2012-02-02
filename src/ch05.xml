@@ -39,7 +39,9 @@
 		</para>
 		<informalfigure xreflabel="Fig 4">
 			<mediaobject>
-				<imageobject fileref="resource/INF-6-010.jpg"/>
+				<imageobject>
+					<imagedata fileref="resource/INF-6-010.jpg"/>
+				</imageobject>
 			</mediaobject>
 			<caption><para>Sistema operativo iOS</para></caption>
 		</informalfigure>
@@ -67,7 +69,9 @@
 		</para>
 		<informalfigure xreflabel="Fig 5">
 			<mediaobject>
-				<imageobject fileref="resource/INF-6-011.jpg"/>
+				<imageobject>
+					<imagedata fileref="resource/INF-6-011.jpg"/>
+				</imageobject>
 			</mediaobject>
 			<caption><para>Android</para></caption>
 		</informalfigure>
@@ -88,7 +92,9 @@
 		</para>
 		<informalfigure xreflabel="Fig 6">
 			<mediaobject>
-				<imageobject fileref="resource/INF-6-012.jpg"/>
+				<imageobject>
+					<imagedata fileref="resource/INF-6-012.jpg"/>
+				</imageobject>
 			</mediaobject>
 			<caption><para>Blackberry</para></caption>
 		</informalfigure>
@@ -122,7 +128,9 @@
 		</para>
 		<informalfigure xreflabel="Fig 7">
 			<mediaobject>
-				<imageobject fileref="resource/INF-6-013.jpg"/>
+				<imageobject>
+					<imagedata fileref="resource/INF-6-013.jpg"/>
+				</imageobject>
 			</mediaobject>
 			<caption><para>Windows Mobile</para></caption>
 		</informalfigure>
@@ -172,7 +180,9 @@
 		</para>
 		<informalfigure xreflabel="Fig 8">
 			<mediaobject>
-				<imageobject fileref="resource/INF-6-014.jpg"/>
+				<imageobject>
+					<imagedata fileref="resource/INF-6-014.jpg"/>
+				</imageobject>
 			</mediaobject>
 			<caption><para>Opera Mobile</para></caption>
 		</informalfigure>

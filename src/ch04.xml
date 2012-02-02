@@ -62,22 +62,30 @@
 	</para>
 	<informalfigure xreflabel="Fig 3a">
 		<mediaobject>
-			<imageobject fileref="resource/INF-6-006.jpg"/>
+			<imageobject>
+				<imagedata fileref="resource/INF-6-006.jpg"/>
+			</imageobject>
 		</mediaobject>
 	</informalfigure>
 	<informalfigure xreflabel="Fig 3b">
 		<mediaobject>
-			<imageobject fileref="resource/INF-6-007.jpg"/>
+			<imageobject>
+				<imagedata fileref="resource/INF-6-007.jpg"/>
+			</imageobject>
 		</mediaobject>
 	</informalfigure>
 	<informalfigure xreflabel="Fig 3c">
 		<mediaobject>
-			<imageobject fileref="resource/INF-6-008.jpg"/>
+			<imageobject>
+				<imagedata fileref="resource/INF-6-008.jpg"/>
+			</imageobject>
 		</mediaobject>
 	</informalfigure>
 	<informalfigure xreflabel="Fig 3d">
 		<mediaobject>
-			<imageobject fileref="resource/INF-6-009.jpg"/>
+			<imageobject>
+				<imagedata fileref="resource/INF-6-009.jpg"/>
+			</imageobject>
 		</mediaobject>
 		<caption><para>Dispositivos móviles: tabletas, teléfonos y smartphones.</para></caption>
 	</informalfigure>

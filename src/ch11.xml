@@ -108,17 +108,23 @@
 	</para>
 	<informalfigure xreflabel="Fig 46">
 		<mediaobject>
-			<imageobject fileref="resource/INF-6-052.jpg"/>
+			<imageobject>
+				<imagedata fileref="resource/INF-6-052.jpg"/>
+			</imageobject>
 		</mediaobject>
 	</informalfigure>
 	<informalfigure xreflabel="Fig 47">
 		<mediaobject>
-			<imageobject fileref="resource/INF-6-053.jpg"/>
+			<imageobject>
+				<imagedata fileref="resource/INF-6-053.jpg"/>
+			</imageobject>
 		</mediaobject>
 	</informalfigure>
 	<informalfigure xreflabel="Fig 48">
 		<mediaobject>
-			<imageobject fileref="resource/INF-6-054.jpg"/>
+			<imageobject>
+				<imagedata fileref="resource/INF-6-054.jpg"/>
+			</imageobject>
 		</mediaobject>
 		<caption><para>FourSquare</para></caption>
 	</informalfigure>

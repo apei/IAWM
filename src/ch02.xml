@@ -60,7 +60,9 @@
 	</para>
 	<informalfigure xreflabel="Fig 2">
 		<mediaobject>
-			<imageobject fileref="resource/INF-6-005.jpg"/>
+			<imageobject>
+				<imagedata fileref="resource/INF-6-005.jpg"/>
+			</imageobject>
 		</mediaobject>
 		<caption><para>Información en la palma de la mano.</para></caption>
 	</informalfigure>

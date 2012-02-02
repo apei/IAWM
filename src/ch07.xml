@@ -24,7 +24,9 @@
 	</para>
 	<informalfigure xreflabel="Fig 10">
 		<mediaobject>
-			<imageobject fileref="resource/INF-6-016.jpg"/>
+			<imageobject>
+				<imagedata fileref="resource/INF-6-016.jpg"/>
+			</imageobject>
 		</mediaobject>
 		<caption>
 			<para>Página WAP</para>
@@ -62,7 +64,9 @@
 	</para>	
 	<informalfigure xreflabel="Fig 11">
 		<mediaobject>
-			<imageobject fileref="resource/INF-6-101.png"/>
+			<imageobject>
+				<imagedata fileref="resource/INF-6-101.png"/>
+			</imageobject>
 		</mediaobject>
 		<caption>
 			<para>

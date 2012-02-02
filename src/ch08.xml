@@ -40,7 +40,9 @@
 	</orderedlist>
 	<informalfigure xreflabel="Fig 12">
 		<mediaobject>
-			<imageobject fileref="resource/INF-6-017.jpg"/>
+			<imageobject>
+				<imagedata fileref="resource/INF-6-017.jpg"/>
+			</imageobject>
 		</mediaobject>
 		<caption>
 			<para>El sitio web de APEI desde un dispositivo móvil</para>
@@ -98,7 +100,9 @@
 			</para>
 			<informalfigure xreflabel="Fig 13">
 				<mediaobject>
-					<imageobject fileref="resource/INF-6-018.jpg"/>
+					<imageobject>
+						<imagedata fileref="resource/INF-6-018.jpg"/>
+					</imageobject>
 				</mediaobject>
 				<caption>
 					<para>El sitio web de APEI visto desde un transcodificador</para>
@@ -377,32 +381,44 @@
 		</para>
 		<informalfigure xreflabel="Fig 14">
 			<mediaobject>
-				<imageobject fileref="resource/INF-6-019.jpg"/>
+				<imageobject>
+					<imagedata fileref="resource/INF-6-019.jpg"/>
+				</imageobject>
 			</mediaobject>
 		</informalfigure>
 		<informalfigure xreflabel="Fig 15">
 			<mediaobject>
-				<imageobject fileref="resource/INF-6-020.jpg"/>
+				<imageobject>
+					<imagedata fileref="resource/INF-6-020.jpg"/>
+				</imageobject>
 			</mediaobject>
 		</informalfigure>
 		<informalfigure xreflabel="Fig 16">
 			<mediaobject>
-				<imageobject fileref="resource/INF-6-021.jpg"/>
+				<imageobject>
+					<imagedata fileref="resource/INF-6-021.jpg"/>
+				</imageobject>
 			</mediaobject>
 		</informalfigure>
 		<informalfigure xreflabel="Fig 17">
 			<mediaobject>
-				<imageobject fileref="resource/INF-6-022.jpg"/>
+				<imageobject>
+					<imagedata fileref="resource/INF-6-022.jpg"/>
+				</imageobject>
 			</mediaobject>
 		</informalfigure>
 		<informalfigure xreflabel="Fig 18">
 			<mediaobject>
-				<imageobject fileref="resource/INF-6-023.jpg"/>
+				<imageobject>
+					<imagedata fileref="resource/INF-6-023.jpg"/>
+				</imageobject>
 			</mediaobject>
 		</informalfigure>
 		<informalfigure xreflabel="Fig 19">
 			<mediaobject>
-				<imageobject fileref="resource/INF-6-024.jpg"/>
+				<imageobject>
+					<imagedata fileref="resource/INF-6-024.jpg"/>
+				</imageobject>
 			</mediaobject>
 		</informalfigure>
 	</section>
@@ -499,7 +515,9 @@
 		</para>
 		<informalfigure xreflabel="Fig 20">
 			<mediaobject>
-				<imageobject fileref="resource/INF-6-025.jpg"/>
+				<imageobject>
+					<imagedata fileref="resource/INF-6-025.jpg"/>
+				</imageobject>
 			</mediaobject>
 			<caption><para>Blog adaptado para móviles.</para></caption>
 		</informalfigure>

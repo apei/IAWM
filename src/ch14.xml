@@ -50,17 +50,17 @@
 	</para>
 	<informalfigure xreflabel="Fig 68">
 		<mediaobject>
-			<imageobject fileref="resource/INF-6-066.jpg"/>
+			<imagedata fileref="resource/INF-6-066.jpg"/>
 		</mediaobject>
 	</informalfigure>
 	<informalfigure xreflabel="Fig 69">
 		<mediaobject>
-			<imageobject fileref="resource/INF-6-067.jpg"/>
+			<imagedata fileref="resource/INF-6-067.jpg"/>
 		</mediaobject>
 	</informalfigure>
 	<informalfigure xreflabel="Fig 70">
 		<mediaobject>
-			<imageobject fileref="resource/INF-6-068.jpg"/>
+			<imagedata fileref="resource/INF-6-068.jpg"/>
 		</mediaobject>
 		<caption><para>Stanza, aplicación para la lectura de libros electrónicos en dispositivos móviles.</para></caption>
 	</informalfigure>
@@ -96,7 +96,9 @@
 	</para>
 	<informalfigure xreflabel="Fig 71">
 		<mediaobject>
-			<imageobject fileref="resource/INF-6-069.png"/>
+			<imageobject>
+				<imagedata fileref="resource/INF-6-069.png"/>
+			</imageobject>
 		</mediaobject>
 		<caption><para>Prensa digital y en papel.</para></caption>
 	</informalfigure>

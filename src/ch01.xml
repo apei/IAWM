@@ -46,7 +46,9 @@
 	</para>
 	<informalfigure xreflabel="Fig 1">
 		<mediaobject>
-			<imageobject fileref="resource/INF-6-004.jpg"/>
+			<imageobject>
+				<imagedata fileref="resource/INF-6-004.jpg"/>
+			</imageobject>
 		</mediaobject>
 		<caption><para>Los dispositivos móviles se emplean en cualquier momento y situación.</para></caption>
 	</informalfigure>

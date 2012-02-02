@@ -124,13 +124,17 @@
 		</para>
 		<informalfigure xreflabel="Fig 21">
 			<mediaobject>
-				<imageobject fileref="resource/INF-6-026.jpg"/>
+				<imageobject>
+					<imagedata fileref="resource/INF-6-026.jpg"/>
+				</imageobject>
 			</mediaobject>
 			<caption><para>La web para móviles de la biblioteca Rector Gabriel Ferraté.</para></caption>
 		</informalfigure>
 		<informalfigure xreflabel="Fig 22">
 			<mediaobject>
-				<imageobject fileref="resource/INF-6-027.jpg"/>
+				<imageobject>
+					<imagedata fileref="resource/INF-6-027.jpg"/>
+				</imageobject>
 			</mediaobject>
 			<caption><para>La web para móviles de la biblioteca North Carolina State University.</para></caption>
 		</informalfigure>
@@ -256,12 +260,16 @@
 		</para>
 		<informalfigure xreflabel="Fig 23">
 			<mediaobject>
-				<imageobject fileref="resource/INF-6-028.jpg"/>
+				<imageobject>
+					<imagedata fileref="resource/INF-6-028.jpg"/>
+				</imageobject>
 			</mediaobject>
 		</informalfigure>
 		<informalfigure xreflabel="Fig 24">
 			<mediaobject>
-				<imageobject fileref="resource/INF-6-029.jpg"/>
+				<imageobject>
+					<imagedata fileref="resource/INF-6-029.jpg"/>
+				</imageobject>
 			</mediaobject>
 			<caption><para>Servicio de referencia a través de chat para móviles.</para></caption>
 		</informalfigure>
@@ -290,17 +298,23 @@
 		</para>
 		<informalfigure xreflabel="Fig 25">
 			<mediaobject>
-				<imageobject fileref="resource/INF-6-030.jpg"/>
+				<imageobject>
+					<imagedata fileref="resource/INF-6-030.jpg"/>
+				</imageobject>
 			</mediaobject>
 		</informalfigure>
 		<informalfigure xreflabel="Fig 26">
 			<mediaobject>
-				<imageobject fileref="resource/INF-6-031.jpg"/>
+				<imageobject>
+					<imagedata fileref="resource/INF-6-031.jpg"/>
+				</imageobject>
 			</mediaobject>
 		</informalfigure>
 		<informalfigure xreflabel="Fig 27">
 			<mediaobject>
-				<imageobject fileref="resource/INF-6-032.jpg"/>
+				<imageobject>
+					<imagedata fileref="resource/INF-6-032.jpg"/>
+				</imageobject>
 			</mediaobject>
 			<caption><para>Versión para móviles del catálogo de la Universidad de Cádiz.</para></caption>
 		</informalfigure>
@@ -320,7 +334,9 @@
 		</para>
 		<informalfigure xreflabel="Fig 28">
 			<mediaobject>
-				<imageobject fileref="resource/INF-6-033.jpg"/>
+				<imageobject>
+					<imagedata fileref="resource/INF-6-033.jpg"/>
+				</imageobject>
 			</mediaobject>
 			<caption><para>LibraryAnywhere.</para></caption>
 		</informalfigure>
@@ -345,22 +361,30 @@
 		</para>
 		<informalfigure xreflabel="Fig 29">
 			<mediaobject>
-				<imageobject fileref="resource/INF-6-034.jpg"/>
+				<imageobject>
+					<imagedata fileref="resource/INF-6-034.jpg"/>
+				</imageobject>
 			</mediaobject>
 		</informalfigure>
 		<informalfigure xreflabel="Fig 30">
 			<mediaobject>
-				<imageobject fileref="resource/INF-6-035.jpg"/>
+				<imageobject>
+					<imagedata fileref="resource/INF-6-035.jpg"/>
+				</imageobject>
 			</mediaobject>
 		</informalfigure>
 		<informalfigure xreflabel="Fig 31">
 			<mediaobject>
-				<imageobject fileref="resource/INF-6-036.jpg"/>
+				<imageobject>
+					<imagedata fileref="resource/INF-6-036.jpg"/>
+				</imageobject>
 			</mediaobject>
 		</informalfigure>
 		<informalfigure xreflabel="Fig 32">
 			<mediaobject>
-				<imageobject fileref="resource/INF-6-037.jpg"/>
+				<imageobject>
+					<imagedata fileref="resource/INF-6-037.jpg"/>
+				</imageobject>
 			</mediaobject>
 			<caption><para>Versión para móviles del catálogo de la Universidad de Salamanca (basado en Worldcat).</para></caption>
 		</informalfigure>
@@ -377,13 +401,17 @@
 		</para>
 		<informalfigure xreflabel="Fig 33a">
 			<mediaobject>
-				<imageobject fileref="resource/INF-6-038.jpg"/>
+				<imageobject>
+					<imagedata fileref="resource/INF-6-038.jpg"/>
+				</imageobject>
 			</mediaobject>
 			<caption><para>Library Journal</para></caption>
 		</informalfigure>
 		<informalfigure xreflabel="Fig 33b">
 			<mediaobject>
-				<imageobject fileref="resource/INF-6-039.jpg"/>
+				<imageobject>
+					<imagedata fileref="resource/INF-6-039.jpg"/>
+				</imageobject>
 			</mediaobject>
 			<caption><para>Refworks.</para></caption>
 		</informalfigure>

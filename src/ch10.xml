@@ -20,7 +20,9 @@
 	</para>
 	<informalfigure xreflabel="Fig 34">
 		<mediaobject>
-			<imageobject fileref="resource/INF-6-040.jpg"/>
+			<imageobject>
+				<imagedata fileref="resource/INF-6-040.jpg"/>
+			</imageobject>
 		</mediaobject>
 		<caption><para>La tienda de aplicaciones de Apple.</para></caption>
 	</informalfigure>
@@ -67,22 +69,30 @@
 	</para>
 	<informalfigure xreflabel="Fig 35">
 		<mediaobject>
-			<imageobject fileref="resource/INF-6-041.jpg"/>
+			<imageobject>
+				<imagedata fileref="resource/INF-6-041.jpg"/>
+			</imageobject>
 		</mediaobject>
 	</informalfigure>
 	<informalfigure xreflabel="Fig 36">
 		<mediaobject>
-			<imageobject fileref="resource/INF-6-042.jpg"/>
+			<imageobject>
+				<imagedata fileref="resource/INF-6-042.jpg"/>
+			</imageobject>
 		</mediaobject>
 	</informalfigure>
 	<informalfigure xreflabel="Fig 37">
 		<mediaobject>
-			<imageobject fileref="resource/INF-6-043.jpg"/>
+			<imageobject>
+				<imagedata fileref="resource/INF-6-043.jpg"/>
+			</imageobject>
 		</mediaobject>
 	</informalfigure>
 	<informalfigure xreflabel="Fig 38">
 		<mediaobject>
-			<imageobject fileref="resource/INF-6-044.jpg"/>
+			<imageobject>
+				<imagedata fileref="resource/INF-6-044.jpg"/>
+			</imageobject>
 		</mediaobject>
 		<caption><para>Aplicación de la Biblioteca Pública de Seattle.</para></caption>
 	</informalfigure>
@@ -101,17 +111,23 @@
 	</para>
 	<informalfigure xreflabel="Fig 39">
 		<mediaobject>
-			<imageobject fileref="resource/INF-6-045.jpg"/>
+			<imageobject>
+				<imagedata fileref="resource/INF-6-045.jpg"/>
+			</imageobject>
 		</mediaobject>
 	</informalfigure>
 	<informalfigure xreflabel="Fig 40">
 		<mediaobject>
-			<imageobject fileref="resource/INF-6-046.jpg"/>
+			<imageobject>
+				<imagedata fileref="resource/INF-6-046.jpg"/>
+			</imageobject>
 		</mediaobject>
 	</informalfigure>
 	<informalfigure xreflabel="Fig 41">
 		<mediaobject>
-			<imageobject fileref="resource/INF-6-047.jpg"/>
+			<imageobject>
+				<imagedata fileref="resource/INF-6-047.jpg"/>
+			</imageobject>
 		</mediaobject>
 		<caption><para>Library Navigator.</para></caption>
 	</informalfigure>
@@ -144,22 +160,30 @@
 	</para>
 	<informalfigure xreflabel="Fig 42">
 		<mediaobject>
-			<imageobject fileref="resource/INF-6-048.jpg"/>
+			<imageobject>
+				<imagedata fileref="resource/INF-6-048.jpg"/>
+			</imageobject>
 		</mediaobject>
 	</informalfigure>
 	<informalfigure xreflabel="Fig 43">
 		<mediaobject>
-			<imageobject fileref="resource/INF-6-049.jpg"/>
+			<imageobject>
+				<imagedata fileref="resource/INF-6-049.jpg"/>
+			</imageobject>
 		</mediaobject>
 	</informalfigure>
 	<informalfigure xreflabel="Fig 44">
 		<mediaobject>
-			<imageobject fileref="resource/INF-6-050.jpg"/>
+			<imageobject>
+				<imagedata fileref="resource/INF-6-050.jpg"/>
+			</imageobject>
 		</mediaobject>
 	</informalfigure>
 	<informalfigure xreflabel="Fig 45">
 		<mediaobject>
-			<imageobject fileref="resource/INF-6-051.jpg"/>
+			<imageobject>
+				<imagedata fileref="resource/INF-6-051.jpg"/>
+			</imageobject>
 		</mediaobject>
 		<caption><para>WolfWalk</para></caption>
 	</informalfigure>

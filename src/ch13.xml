@@ -95,12 +95,16 @@
 	</itemizedlist>
 	<informalfigure xreflabel="Fig 66">
 		<mediaobject>
-			<imageobject fileref="resource/INF-6-063.jpg"/>
+			<imageobject>
+				<imagedata fileref="resource/INF-6-063.jpg"/>
+			</imageobject>
 		</mediaobject>
 	</informalfigure>
 	<informalfigure xreflabel="Fig 67">
 		<mediaobject>
-			<imageobject fileref="resource/INF-6-064.jpg"/>
+			<imageobject>
+				<imagedata fileref="resource/INF-6-064.jpg"/>
+			</imageobject>
 		</mediaobject>
 		<caption><para>Navegador de realidad aumentada.</para></caption>
 	</informalfigure>
@@ -115,7 +119,9 @@
 	</para>
 	<informalfigure xreflabel="Fig 67">
 		<mediaobject>
-			<imageobject fileref="resource/INF-6-065.jpg"/>
+			<imageobject>
+				<imagedata fileref="resource/INF-6-065.jpg"/>
+			</imageobject>
 		</mediaobject>
 		<caption><para>Introducción de datos en Wikitude.</para></caption>
 	</informalfigure>
