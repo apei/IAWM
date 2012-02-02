@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head><title>8.5. Enlaces sólo para dispositivos móviles</title><link rel="stylesheet" type="text/css" href="style.css"/><meta name="generator" content="DocBook XSL Stylesheets V1.76.1-RC2"/></head><body><div class="section" title="8.5. Enlaces sólo para dispositivos móviles"><div class="titlepage"><div><div><h1 class="title"><a id="ch08e"/>8.5. Enlaces sólo para dispositivos móviles</h1></div></div></div><p>
+			Los teléfonos móviles presentan funciones específicas como la llamada telefónica o el envío de mensajes de texto o multimedia, son capaces de enviar 
+			correos electrónicos e incluyen agenda personal. Así, ¿por qué no pensar en ellas a la hora de crear nuestro sitio web y facilitar así el trabajo a 
+			quienes lo visitan? La forma de hacerlo es sencilla: cuando mostramos los datos de contacto, es posible incluir enlaces en el número de teléfono o el 
+			correo electrónico que el dispositivo interpreta, haciendo posible así, con sólo hacer clic sobre el enlace, realizar una llamada telefónica, guardar 
+			un número en la agenda o enviar un SMS o un correo. Este es el código adecuado para cada una de esas opciones, que puede variar en función del navegador:
+		</p><div class="example"><a id="d0e809"/><p class="title"><strong>Ejemplo 8.1. Algunos ejemplos de enlaces para dispositivos móviles</strong></p><div class="example-contents"><p>Hacer una llamada:</p><p>
+				
+               <code class="code">&lt;a href=“tel:+34985131188”&gt; 985131188&lt;/a&gt;</code>
+				
+               <code class="code">&lt;a href=”wtai://wp/mc; +985131188”&gt; 985131188&lt;/a&gt;</code>
+			
+            </p><p>Enviar un SMS:</p><p>
+				
+               <code class="code">&lt;a href=“sms://+34985131188”&gt;envíanos un SMS&lt;/a&gt;</code>
+			
+            </p><p>Enviar un correo electrónico:</p><p>
+				
+               <code class="code">&lt;a href=“mailto: info@apei.es”&gt;Enviar email a APEI&lt;/a&gt;</code>
+			
+            </p><p>Guardar el teléfono en la agenda:</p><p>
+				
+               <code class="code">&lt;a href=“wtai://wp/ap;+34985131188;APEI”&gt;Añadir a la agenda&lt;/a&gt;</code>
+			
+            </p></div></div></div></body></html>

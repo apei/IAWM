@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head><title>8.3. Pautas para la web móvil</title><link rel="stylesheet" type="text/css" href="style.css"/><meta name="generator" content="DocBook XSL Stylesheets V1.76.1-RC2"/></head><body><div class="section" title="8.3. Pautas para la web móvil"><div class="titlepage"><div><div><h1 class="title"><a id="ch08c"/>8.3. Pautas para la web móvil</h1></div></div></div><p>
+			A la hora de comenzar a diseñar un sitio web el primer paso es conocer los estándares existentes. Como se explicó en el apartado 5 de este informe, 
+			los navegadores actuales soportan HTML, pero existen estándares específicos como XHTML Mobile Profile 1.0 (XHTML-MP).
+		</p><p>
+			El W3C, a través de su Best Practices Working Group (BPWG) publicó en 2008 la recomendación <em class="citetitle">Mobile Web Best Practices 1.0</em> 
+			(Rabin y McCathieNevile, 2008). En ella se especifican los requisitos mínimos para un contexto por defecto (Default Delivery Context o DDC), lo que 
+			permite al proveedor procurar una experiencia básica cuando no hay adaptación. Ese contexto mínimo requiere:
+		</p><div class="itemizedlist"><ul class="itemizedlist"><li class="listitem"><p>
+					Ancho de pantalla mínimo de 120 pixels.
+				</p></li><li class="listitem"><p>
+					Lenguaje de marcado: XHTML Basic 1.1 y content type application/xhtml+xml.
+				</p></li><li class="listitem"><p>
+					Codificación de caracteres UTF-8.
+				</p></li><li class="listitem"><p>
+					Formatos de imagen JPEG y GIF 89a.
+				</p></li><li class="listitem"><p>
+					Peso máximo de la página: 20 kilobytes.
+				</p></li><li class="listitem"><p>
+					Mínimo de 256 colores.
+				</p></li><li class="listitem"><p>
+					Hojas de estilo CSS nivel 1 y CSS nivel 2.
+				</p></li><li class="listitem"><p>
+					HTTP/1.0 o 1.1.
+				</p></li><li class="listitem"><p>
+					Sin script en el lado del cliente.
+				</p></li></ul></div><p>
+			Partiendo de las limitaciones que plantean los dispositivos móviles, han sido seleccionadas algunas pautas de carácter general a tener en cuenta a la 
+			hora de desarrollar un sitio web para móviles (Arroyo, 2010). Se trata, en todo caso, de pautas que marca el sentido común y que se pueden complementar 
+			con las <em class="citetitle">Mobile Web Best Practices</em> del W3C. En suma, es importante tener presente que el objetivo es mejorar la experiencia de 
+			usuario y que al usuario le resulte sencillo y cómodo navegar.
+		</p><div class="orderedlist"><ol class="orderedlist"><li class="listitem"><p>
+					Gran diversidad de dispositivos y fragmentación del mercado. Esto supone:
+				</p><div class="itemizedlist"><ul class="itemizedlist"><li class="listitem"><p>
+							Diseñar para que una misma página pueda ser vista desde distintos dispositivos. Así se amortizará el trabajo realizado.
+						</p></li><li class="listitem"><p>
+							Escoger para qué tipos de dispositivos diseñar nuestras páginas. Es posible realizar tantas versiones como se considere oportuno.
+						</p></li><li class="listitem"><p>
+							Consultar las características de los dispositivos a los que nos dirigimos. Para ello se pueden emplear herramientas como DeviceAtlas 
+							&lt;<a class="link" href="http://deviceatlas.com/">http://deviceatlas.com/</a>&gt;.
+						</p></li></ul></div></li><li class="listitem"><p>
+					Pequeñas pantallas (entre las dos pulgadas de un teléfono móvil y las diez de un ultraportátil o una tableta) y con escasa resolución de pantalla.
+				</p><div class="itemizedlist"><ul class="itemizedlist"><li class="listitem"><p>
+							Evitar elementos que no puedan verse en la página desde un dispositivo con pantalla pequeña, como imágenes grandes, textos demasiado 
+							largos, o marcos, huyendo del <span class="emphasis"><em>scroll</em></span> horizontal y vertical simultáneamente.
+						</p></li><li class="listitem"><p>
+							Facilitar la lectura de los elementos de la pantalla, evitando imágenes de fondo o poco contraste entre fondo y forma.
+						</p></li></ul></div></li><li class="listitem"><p>
+					Limitaciones en la entrada de datos y la interacción ante la ausencia de teclados <span class="emphasis"><em>qwerty</em></span> en algunos dispositivos 
+					(que cuando existen son de reducidas dimensiones), lo que hace complicado teclear largas URL o introducir largos textos. El ratón no 
+					existe y la navegación se realiza desde teclas de posición u otros elementos. Las pantallas táctiles y los lápices-puntero facilitan esta labor.
+				</p><div class="itemizedlist"><ul class="itemizedlist"><li class="listitem"><p>
+							Usar URL cortas y significativas.
+						</p></li><li class="listitem"><p>
+							Evitar la entrada de texto libre, estableciendo valores preseleccionados siempre que sea posible.
+						</p></li><li class="listitem"><p>
+							Marcar el orden de tabulación de los enlaces disponibles.
+						</p></li></ul></div></li><li class="listitem"><p>
+					Algunos dispositivos no soportan determinados formatos.
+				</p><div class="itemizedlist"><ul class="itemizedlist"><li class="listitem"><p>
+							Evitar formatos que no sean soportados por los dispositivos para los que vamos a desarrollar nuestro sitio web.
+						</p></li><li class="listitem"><p>
+							Evitar aquellos elementos no compatibles o que pueden dar problemas potencialmente, como objetos o scripts incrustados, 
+							ventanas emergentes o tablas.
+						</p></li></ul></div></li><li class="listitem"><p>
+					Menor ancho de banda de las conexiones, que además pueden alcanzar un alto coste en función de la cantidad de datos descargada: la navegación 
+					lenta entorpece la experiencia de uso. Por otra parte, los aparatos con conectividad WiFi dependen de la disponibilidad de una red. Los costes 
+					de las conexiones varían de unas operadoras a otras y de los contratos. En la actualidad existen tarifas planas, algunas de ellas con límite 
+					de descarga de datos.
+				</p><div class="itemizedlist"><ul class="itemizedlist"><li class="listitem"><p>
+							Diseñar páginas ligeras, manteniendo un peso limitado y evitando elementos pesados como imágenes grandes y todo aquello que sea superfluo.
+						</p></li><li class="listitem"><p>
+							Facilitar la navegación al usuario identificando claramente qué encontrará detrás de cada enlace y creando una estructura lógica 
+							de navegación, asignando títulos claros a las páginas y teclas de acceso rápido en los menús.
+						</p></li><li class="listitem"><p>
+							Huir de la actualización automática periódica de las páginas sin informar al usuario.
+						</p></li></ul></div></li><li class="listitem"><p>
+					Menor capacidad de memoria.
+				</p><div class="itemizedlist"><ul class="itemizedlist"><li class="listitem"><p>
+							Evaluar el uso que los dispositivos a los que nos dirigimos hacen de <span class="emphasis"><em>cookies</em></span> y de caché.
+						</p></li><li class="listitem"><p>
+							Asegurarse de que el tamaño total de la página es apropiado para las limitaciones de memoria del dispositivo.
+						</p></li></ul></div></li><li class="listitem"><p>
+					Situación de movilidad del usuario.
+				</p><div class="itemizedlist"><ul class="itemizedlist"><li class="listitem"><p>
+							Pensar qué información y servicios pueden ser relevantes y adecuados para un usuario en una situación de movilidad y eliminar todo 
+							lo demás, pues sólo contribuirá a empeorar la experiencia de navegación.
+						</p></li><li class="listitem"><p>
+							Facilitar al usuario la navegación
+						</p></li><li class="listitem"><p>
+							Aprovechar las capacidades del dispositivo
+						</p></li></ul></div></li></ol></div><p>
+			Una vez finalizadas las nuevas páginas es conveniente comprobar que funcionan bien probándolas en los dispositivos para los que han sido diseñadas, o 
+			empleando emuladores en su defecto, y comprobando si está todo correcto con algún validador, como el Mobile OK Checker 
+			&lt;<a class="link" href="http://validator.w3.org/mobile/">http://validator.w3.org/mobile/</a>&gt; del W3C.
+		</p><div class="informalfigure"><div class="mediaobject"/></div><div class="informalfigure"><div class="mediaobject"/></div><div class="informalfigure"><div class="mediaobject"/></div><div class="informalfigure"><div class="mediaobject"/></div><div class="informalfigure"><div class="mediaobject"/></div><div class="informalfigure"><div class="mediaobject"/></div></div></body></html>

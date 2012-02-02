@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<appendix xml:id="anexo1"
+	lang="es" version="5.0" 
+	xmlns="http://docbook.org/ns/docbook" 
+	xmlns:xi="http://www.w3.org/2001/XInclude"
+	xmlns:xl="http://www.w3.org/1999/xlink">
+  	<title>Anexos</title>
+	<subtitle>Herramientas para dispositivos móviles</subtitle>
+	<section>
+		<title>Emuladores</title>
+		<itemizedlist>
+			<listitem>
+				<para>
+					Android emulator &lt;<link xl:href="http://developer.android.com/guide/developing/tools/emulator.html"/>&gt;
+				</para>
+			</listitem> 
+			<listitem>
+				<para>
+					dotMobi emulator &lt;<link xl:href="http://emulator.mtld.mobi/emulator.php"/>&gt;
+				</para>
+			</listitem> 
+			<listitem>
+				<para>
+					iPad Peek &lt;<link xl:href="http://ipadpeek.com/"/>&gt;
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					iPhoneTester &lt;<link xl:href="http://iphonetester.com/"/>&gt;
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					Opera Mini Simulator &lt;<link xl:href="http://www.opera.com/mobile/demo/"/>&gt;
+				</para>
+			</listitem> 
+			<listitem>
+				<para>
+					Opera Mobile emulator &lt;<link xl:href="http://www.opera.com/developer/tools/"/>&gt;
+				</para>
+			</listitem> 
+			<listitem>
+				<para>
+					TestiPhone &lt;<link xl:href="http://www.testiphone.com/"/>&gt;
+				</para>
+			</listitem> 
+			<listitem>
+				<para>
+					User Agent Switcher &lt;<link xl:href="https://addons.mozilla.org/en-US/firefox/addon/59/"/>&gt;
+				</para>
+			</listitem>
+		</itemizedlist>
+	</section>
+	<section>
+		<title>Transcodificadores</title>
+		<itemizedlist>
+			<listitem>
+				<para>
+					BareSite &lt;<link xl:href="http://www.baresite.com/"/>&gt;
+				</para>
+			</listitem> 
+			<listitem>
+				<para>
+					Google &lt;<link xl:href="http://www.google.com/gwt/n"/>&gt;
+				</para>
+			</listitem> 
+			<listitem>
+				<para>
+					Mowser &lt;<link xl:href="http://mowser.com/"/>&gt;
+				</para>
+			</listitem> 
+			<listitem>
+				<para>
+					Skweezer &lt;<link xl:href="http://www.skweezer.com/"/>&gt;
+				</para>
+			</listitem>
+		</itemizedlist>
+	</section>
+	<section>
+		<title>Servicios para adaptar contenidos</title>
+		<itemizedlist>
+			<listitem>
+				<para>
+					Instant Mobilizer &lt;<link xl:href="http://instantmobilizer.com/"/>&gt;
+				</para>
+			</listitem> 
+			<listitem>
+				<para>
+					Mippin &lt;<link xl:href="http://mippin.com/"/>&gt;
+				</para>
+			</listitem> 
+			<listitem>
+				<para>
+					Mobify &lt;<link xl:href="http://mobify.me/"/>&gt;
+				</para>
+			</listitem> 
+			<listitem>
+				<para>
+					Mofuse &lt;<link xl:href="http://www.mofuse.com/"/>&gt;
+				</para>
+			</listitem>
+		</itemizedlist>
+	</section>
+	<section>
+		<title>Servicios de creación y alojamiento de sitios web</title>
+		<itemizedlist>
+			<listitem>
+				<para>
+					Ubik &lt;<link xl:href="http://www.ubik.com/"/>&gt;
+				</para>
+			</listitem> 
+			<listitem>
+				<para>
+					Xtgem &lt;<link xl:href="http://xtgem.com/"/>&gt;
+				</para>
+			</listitem> 
+			<listitem>
+				<para>
+					Wirenode &lt;<link xl:href="http://www.wirenode.com/"/>&gt;
+				</para>
+			</listitem> 
+			<listitem>
+				<para>
+					MobiSiteGalore &lt;<link xl:href="http://www.mobisitegalore.com/"/>&gt;
+				</para>
+			</listitem>
+		</itemizedlist>
+	</section>
+	<section>
+		<title>Detección de dispositivos</title>
+		<itemizedlist>
+			<listitem>
+				<para>
+					The switcher &lt;<link xl:href="http://www.passani.it/switcher/"/>&gt;
+				</para>
+			</listitem> 
+			<listitem>
+				<para>
+					Detect Mobile Browsers &lt;<link xl:href="http://detectmobilebrowsers.mobi/"/>&gt;
+				</para>
+			</listitem>
+		</itemizedlist>
+	</section>
+	<section>
+		<title>Descripción de dispositivos</title>
+		<itemizedlist>
+			<listitem>
+				<para>
+					Device Atlas &lt;<link xl:href="http://deviceatlas.com"/>&gt;
+				</para>
+			</listitem> 
+			<listitem>
+				<para>
+					WURFL (Wireless Universal Resource File) &lt;<link xl:href="http://wurfl.sourceforge.net/"/>&gt;
+				</para>
+			</listitem>
+		</itemizedlist>
+	</section>
+	<section>
+		<title>Validadores</title>
+		<itemizedlist>
+			<listitem>
+				<para>
+					mobiReady &lt;<link xl:href="http://mobiready.com/"/>&gt;
+				</para>
+			</listitem> 
+			<listitem>
+				<para>
+					W3C MobileOK Checker &lt;<link xl:href="http://validator.w3.org/mobile/"/>&gt;
+				</para>
+			</listitem>
+		</itemizedlist>
+	</section>
+	<section>
+		<title>Generadores de códigos QR</title>
+		<itemizedlist>
+			<listitem>
+				<para>
+					Códigos QR &lt;<link xl:href="http://www.codigos-qr.com/generador-de-codigos-qr/"/>&gt;
+				</para>
+			</listitem> 
+			<listitem>
+				<para>
+					Delivr &lt;<link xl:href="http://delivr.com/qr-code-generator"/>&gt;
+				</para>
+			</listitem> 
+			<listitem>
+				<para>
+					Firefox Mobile Barcode &lt;<link xl:href="https://addons.mozilla.org/en-US/firefox/addon/2780/"/>&gt;
+				</para>
+			</listitem> 
+			<listitem>
+				<para>
+					Kaywa &lt;<link xl:href="http://qrcode.kaywa.com/"/>&gt;
+				</para>
+			</listitem>
+		</itemizedlist>
+	</section>
+	<section>
+		<title>Descodificadores de códigos QR</title>
+		<itemizedlist>
+			<listitem>
+				<para>
+					i-nigma &lt;<link xl:href="http://www.i-nigma.com/Downloadi-nigmaReader.html"/>&gt;
+				</para>
+			</listitem>
+		</itemizedlist>
+	</section>
+	<section>
+		<title>Navegadores de realidad aumentada</title>
+		<itemizedlist>
+			<listitem>
+				<para>
+					Acrossair &lt;<link xl:href="http://www.acrossair.com/"/>&gt;
+				</para>
+			</listitem> 
+			<listitem>
+				<para>
+					Junaio &lt;<link xl:href="http://www.junaio.com/"/>&gt;
+				</para>
+			</listitem> 
+			<listitem>
+				<para>
+					Layar &lt;<link xl:href="http://www.layar.com/"/>&gt;
+				</para>
+			</listitem> 
+			<listitem>
+				<para>
+					Sekai Camera &lt;<link xl:href="http://sekaicamera.com/"/>&gt;
+				</para>
+			</listitem> 
+			<listitem>
+				<para>
+					Wikitude &lt;<link xl:href="http://www.wikitude.org/"/>&gt;
+				</para>
+			</listitem>
+		</itemizedlist>
+	</section>
+	<section>
+		<title>Aplicaciones para la lectura en móviles</title>
+		<itemizedlist>
+			<listitem>
+				<para>
+					GoodReader &lt;<link xl:href="http://www.goodiware.com/goodreader.html"/>&gt;
+				</para>
+			</listitem> 
+			<listitem>
+				<para>
+					iBooks &lt;<link xl:href="http://www.apple.com/ipad/features/ibooks.html"/>&gt;
+				</para>
+			</listitem> 
+			<listitem>
+				<para>
+					Kindle, de Amazon &lt;<link xl:href="http://www.amazon.com/gp/kindle/kcp/"/>&gt;
+				</para>
+			</listitem> 
+			<listitem>
+				<para>
+					Nook, Barnes &amp; Noble &lt;<link xl:href="http://www.barnesandnoble.com/u/free-nook-apps/379002321/"/>&gt;
+				</para>
+			</listitem> 
+			<listitem>
+				<para>
+					Stanza &lt;<link xl:href="http://www.lexcycle.com/"/>&gt;
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					Wattpad &lt;<link xl:href="http://www.wattpad.com/getmobile"/>&gt;
+				</para>
+			</listitem>
+		</itemizedlist>
+	</section>
+</appendix>

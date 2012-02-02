@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<chapter xml:id="ch10"
+	lang="es" version="5.0" 
+	xmlns="http://docbook.org/ns/docbook" 
+	xmlns:xi="http://www.w3.org/2001/XInclude"
+	xmlns:xl="http://www.w3.org/1999/xlink">
+	<title>El modelo de aplicaciones</title>
+	<para>
+		El término aplicación se utiliza para designar a cualquier programa informático, pero desde hace un par de años están tomando especial interés las 
+		aplicaciones para dispositivos móviles —pequeños programitas que se instalan para ampliar las funcionalidades del dispositivo— por el modelo de negocio 
+		que han instaurado, y que mueve millones. La tienda de aplicaciones de Apple, la App Store 
+		&lt;<link xl:href="http://itunes.apple.com/us/genre/mobile-software-applications/id36?mt=8"/>&gt;, fue quien dio origen a este modelo recientemente, en 
+		2008, que consiste en ofrecer al desarrollador un espacio para la distribución de su producto (las aplicaciones) y al comprador un lugar donde encontrar 
+		programas, gratuitos o de pago. La tienda, que actúa como intermediario, obtiene beneficios económicos que ascienden a un 30% de las ventas y una tasa 
+		anual que varía entre unas tiendas y otras (unos 99$ en el caso de Apple y 25$ en el Android Market). No se trata de un negocio insignificante: en 2009 
+		se gastaron 4.200 millones de dólares en la compra de aplicaciones, según Gartner, de los cuales el 99,4% de la cuota de mercado correspondió a Apple. 
+		El disponer de una tienda de aplicaciones sólida y variada supone un valor de peso a la hora de decidir qué terminal adquirir por parte del cliente: a 
+		más aplicaciones para elegir, más funciones para mi dispositivo.
+	</para>
+	<informalfigure xreflabel="Fig 34">
+		<mediaobject>
+			<imageobject fileref="resource/INF-6-040.jpg"/>
+		</mediaobject>
+		<caption><para>La tienda de aplicaciones de Apple.</para></caption>
+	</informalfigure>
+	<para>
+		Otras tiendas de aplicaciones han sido abiertas después por otros operadores, fabricantes de dispositivos o sistemas operativos: es el caso del Market 
+		de Android &lt;<link xl:href="http://www.android.com/market/"/>&gt;, la segunda en número de aplicaciones, muy por detrás de Apple, la Ovi Store 
+		&lt;<link xl:href="http://store.ovi.com/"/>&gt; de Nokia, la App World &lt;<link xl:href="http://es.blackberry.com/services/appworld/"/>&gt; de Blackberry, 
+		la tienda de Palm &lt;<link xl:href="http://www.palm.com/es/es/products/software/mobile-applications.html"/>&gt; o el Marketplace de Windows 
+		&lt;<link xl:href="http://marketplace.windowsphone.com/"/>&gt;.
+	</para>
+	<para>
+		Las aplicaciones sirven para todo, desde jugar, consultar un diccionario, leer un libro, un cómic o el periódico hasta localizar servicios cercanos, 
+		gestionar nuestros perfiles en redes sociales o escribir un documento. Educación, entretenimiento y juegos, libros, noticias, productividad, redes 
+		sociales, referencia y viajes son sólo algunas de las categorías que podemos encontrar en las tiendas.
+	</para>
+	<para>
+		Sin embargo, son varios los inconvenientes de este modelo. Cada plataforma exige un lenguaje de programación propio, por lo que un desarrollador 
+		que quiera que su aplicación funcione en varias plataformas deberá programarla varias veces y en lenguajes distintos, lo que supone un gasto económico, 
+		de aprendizaje del lenguaje y tiempo de desarrollo. A pesar de ello, las tiendas más exitosas, las de Apple y Android, funcionan así.
+	</para>
+	<para>
+		Pero, ¿por qué desarrollar una aplicación para una plataforma propietaria, con lo limitado de su distribución y lo costoso de su creación, cuando se 
+		puede crear una aplicación web, válida para cualquier dispositivo con conectividad web? Los motivos son varios: sin duda prima el efecto moda, pero 
+		además las aplicaciones ofrecen al usuario un acceso directo a nuestro sitio web (así no tiene que teclear una URL cada vez que quiere acceder a nuestros 
+		contenidos), que funcione a pesar de no estar conectados a Internet (sólo si la aplicación incluye los datos en lugar de solicitar su carga en línea) y 
+		constituye una estrategia de marketing, pues las tiendas de aplicaciones son un escaparate para llegar a los usuarios de móviles. Sin embargo, el coste 
+		es alto y los interesados deberían plantearse si les merece la pena crear contenidos en plataformas cerradas, enfocadas a unos pocos y, en ese caso, qué
+		nuevos servicios se pueden ofertar para rentabilizar la inversión. El auténtico reto está, por lo tanto, en crear aplicaciones con valor añadido, que 
+		exploten las funciones únicas de los dispositivos móviles (geolocalización, la lectura de códigos de barras, la realidad aumentada...) combinadas con 
+		el contexto de movilidad para ofertar a sus usuarios servicios únicos y de utilidad.
+	</para>
+	<para>
+		Algunas bibliotecas de otros países se han aventurado a crear sus propias aplicaciones<footnote><para>Se puede consultar un listado de aplicaciones en 
+		el blog de Aaron Tay &lt;<link xl:href="http://musingsaboutlibrarianship.blogspot.com/2010/02/iphone-apps-for-librarians.html"/>&gt;.</para></footnote>, 
+		especialmente para plataformas como iPhone y/o Android, casi siempre reproduciendo su propio sitio web o su catálogo. En esa línea están las aplicaciones 
+		de la District of Columbia Public Library &lt;<link xl:href="http://dclibrarylabs.org/projects/iphone/"/>&gt;, para iPhone/iPod Touch, que permite hacer 
+		búsquedas en el catálogo, consultar los datos de localización y horarios de apertura de las bibliotecas de la red, gestionar las reservas y consultar una 
+		lista de los documentos más populares.
+	</para>
+	<para>
+		Una de las más completas es la de la Biblioteca Pública de Seattle &lt;<link xl:href="http://www.spl.org/using-the-library/get-started/spl-mobile-app"/>&gt;, 
+		que funciona sobre varias plataformas (iPhone, Android, Windows Mobile y otras) y añade a las funciones de la anterior un calendario de eventos, un servicio 
+		de referencia en línea, enlace al perfil en Facebook de la biblioteca y acceso a blogs y podcasts.
+	</para>
+	<informalfigure xreflabel="Fig 35">
+		<mediaobject>
+			<imageobject fileref="resource/INF-6-041.jpg"/>
+		</mediaobject>
+	</informalfigure>
+	<informalfigure xreflabel="Fig 36">
+		<mediaobject>
+			<imageobject fileref="resource/INF-6-042.jpg"/>
+		</mediaobject>
+	</informalfigure>
+	<informalfigure xreflabel="Fig 37">
+		<mediaobject>
+			<imageobject fileref="resource/INF-6-043.jpg"/>
+		</mediaobject>
+	</informalfigure>
+	<informalfigure xreflabel="Fig 38">
+		<mediaobject>
+			<imageobject fileref="resource/INF-6-044.jpg"/>
+		</mediaobject>
+		<caption><para>Aplicación de la Biblioteca Pública de Seattle.</para></caption>
+	</informalfigure>
+	<para>
+		En ambos casos se trata de aplicaciones gratuitas y, la mayor parte de las veces, también abiertas al uso para cualquiera, aunque en cuestiones como la 
+		gestión de renovaciones y reservas es necesario introducir los datos del carnet de biblioteca. Hay algunas excepciones que, como la aplicación de la 
+		Universidad Rey Juan Carlos &lt;<link xl:href="http://itunes.apple.com/es/app/universidad-rey-juan-carlos/id342876728?mt=8"/>&gt;, restringe totalmente 
+		su uso a alumnos.
+	</para>
+	<para>
+		Desde otra perspectiva, algunas redes de bibliotecas utilizan las ventajas del geoposicionamiento para crear aplicaciones cuya principal utilidad es 
+		localizar una biblioteca, que puede ser la más cercana a nuestra ubicación actual o alguna otra en concreto. Así, la aplicación Library Navigator 
+		&lt;<link xl:href="http://itunes.apple.com/us/app/library-navigator-south-kanto/id348791813?mt=8&amp;uo=6"/>&gt; es capaz de localizar cualquier 
+		biblioteca en la región de South Kanto (Japón) y otras como Library &lt;<link xl:href="http://web.me.com/macmummy/Double_Tapp_Apps/Find_Apps.html"/>&gt; 
+		o identifican el punto de servicio más cercano a la posición del usuario.
+	</para>
+	<informalfigure xreflabel="Fig 39">
+		<mediaobject>
+			<imageobject fileref="resource/INF-6-045.jpg"/>
+		</mediaobject>
+	</informalfigure>
+	<informalfigure xreflabel="Fig 40">
+		<mediaobject>
+			<imageobject fileref="resource/INF-6-046.jpg"/>
+		</mediaobject>
+	</informalfigure>
+	<informalfigure xreflabel="Fig 41">
+		<mediaobject>
+			<imageobject fileref="resource/INF-6-047.jpg"/>
+		</mediaobject>
+		<caption><para>Library Navigator.</para></caption>
+	</informalfigure>
+	<para>
+		Desde ese mismo enfoque, el de la geolocalización, la aplicación Local Books &lt;<link xl:href="http://www.librarything.com/blogs/librarything/2010/01/local-books-iphone-application/"/>&gt;, 
+		de LibraryThing, completa la información sobre la localización de bibliotecas con la de librerías y eventos literarios cercanos.
+	</para>
+	<para>
+		La forma de aplicación es escogida por algunos proveedores y bases de datos –por ejemplo arXiv &lt;<link xl:href="http://itunes.apple.com/us/app/arxiv/id302515757?mt=8"/>&gt;, 
+		el repositorio de acceso abierto de matemáticas, física, informática y biología– y por servicios como BookMyne 
+		&lt;<link xl:href="http://www.sirsidynix.com/products/bookmyne"/>&gt;, de la empresa SirsiDynix, que funciona sobre iPhone y contiene utilidades como la 
+		localización de bibliotecas en el mapa, escaneado de códigos de barras, recomendaciones de bibliotecas, que también se pueden agregar a una lista de 
+		favoritos, o interacción con la cuenta de la biblioteca. En este caso, esa es la forma exclusiva, pero otros lo utilizan como complemento a su sitio 
+		web para móviles y a otros programas, como OverDrive, la empresa intermediaria a través de la cual varias bibliotecas gestionan los préstamos de libros 
+		electrónicos, que a través de la OverDrive Media Console &lt;<link xl:href="http://www.overdrive.com/software/omc/"/>&gt; sirve libros electrónicos a los 
+		usuarios de las bibliotecas.
+	</para>
+	<para>
+		Las visitas guiadas y la difusión de fondos propios son otra de las posibilidades exploradas. Así, la North Carolina State University ha situado más de 
+		50 puntos en un mapa de su campus y añadido información e imágenes históricas sobre cada uno de ellos. El resultado es WolfWalk 
+		&lt;<link xl:href="http://www.lib.ncsu.edu/dli/pro jects/wolfwalk/"/>&gt;, un viaje guiado por el campus. En esa misma aproximación coincide la Biblioteca 
+		Nacional de Escocia &lt;<link xl:href="http://www.nls.uk/murray-app/"/>&gt;, que saca a la luz parte del archivo John Murray en una pesada pero interesante 
+		aplicación y muestra algunos de sus materiales, acompañados de vídeos y ficheros de audio explicativos.
+	</para>
+	<para>
+		También hay utilidades no generadas por bibliotecas pero que tienen que ver con ellas: para gestionar los préstamos de tus libros en la biblioteca, como 
+		Library Books &lt;<link xl:href="http://librarybooksapp.com/"/>&gt;, o tu propia biblioteca personal, como BooksApp 
+		&lt;<link xl:href="http://www.books-app.com/contents/support.html"/>&gt;, o para rastrear los libros leídos y compartirlos con otros, como Library 
+		&lt;<link xl:href="http://bigbuttondesign.com/library/"/>&gt;.
+	</para>
+	<informalfigure xreflabel="Fig 42">
+		<mediaobject>
+			<imageobject fileref="resource/INF-6-048.jpg"/>
+		</mediaobject>
+	</informalfigure>
+	<informalfigure xreflabel="Fig 43">
+		<mediaobject>
+			<imageobject fileref="resource/INF-6-049.jpg"/>
+		</mediaobject>
+	</informalfigure>
+	<informalfigure xreflabel="Fig 44">
+		<mediaobject>
+			<imageobject fileref="resource/INF-6-050.jpg"/>
+		</mediaobject>
+	</informalfigure>
+	<informalfigure xreflabel="Fig 45">
+		<mediaobject>
+			<imageobject fileref="resource/INF-6-051.jpg"/>
+		</mediaobject>
+		<caption><para>WolfWalk</para></caption>
+	</informalfigure>
+	<para>
+		La perspectiva profesional se refleja en aplicaciones como las de la ALA 2010 Annual Conference &lt;<link xl:href="http://ala2010.boopsie.com/"/>&gt;, 
+		con toda la información del evento, a la vez que permite gestionar la asistencia a conferencias, buscar un taxi, hotel o restaurante o seguir los tuits 
+		del congreso. También forma de aplicación tiene New LIS Books &lt;<link xl:href="http://itunes.com/apps/newlisbooks"/>&gt; (enlace a iTunes) de la 
+		biblioteca de la Universidad de Illinois Urbana-Champaign (EE.UU.), con información para bibliotecarios sobre las últimas publicaciones profesionales.
+	</para>
+	<para>
+		La lectura de códigos, la realidad aumentada, la lectura de libros y prensa y otras utilidades de los dispositivos móviles se valen de aplicaciones para 
+		su funcionamiento. Veámoslas a continuación.
+	</para>
+</chapter>

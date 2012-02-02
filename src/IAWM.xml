@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<book lang="es" version="5.0"
+	xmlns="http://docbook.org/ns/docbook" 
+	xmlns:xi="http://www.w3.org/2001/XInclude"
+	xmlns:xl="http://www.w3.org/1999/xlink">
+
+  <info>
+
+   <title>Informe APEI sobre Movilidad</title>
+   <subtitle>Informe APEI </subtitle>
+   <biblioid class="isbn">978-84-694-5655-2</biblioid>
+   <biblioid class="other">AS-06633-2008</biblioid>
+    <pubdate>2011</pubdate>
+    <copyright>
+      <year>2011</year>
+      <holder>APEI</holder>
+    </copyright>
+    <annotation>
+    	Edición sostenible. Los informes de APEI están editados como documentos electrónicos de lectura en pantalla. Si no es necesario, no los imprimas. Si los imprimes, hazlo a doble cara.
+    </annotation>
+    <collab>
+		<orgname>
+			Esta publicación ha contado con el patrocinio de la Dirección General del Libro, Archivos y Bibliotecas. 
+			Subdirección General de Coordinación Bibliotecaria
+			<inlinemediaobject>
+				<imageobject>
+					<imagedata fileref="resource/INF-6-001.jpg" />
+				</imageobject>
+			</inlinemediaobject>
+		</orgname>
+	</collab>
+	<author>
+		<personname>
+			<firstname>Natalia</firstname>
+			<surname>Arroyo Vázquez</surname>
+		</personname>
+	</author>
+	<publisher>
+		<address><city>Gijón</city></address>
+		<publishername>Asociación Profesional de Especialistas en Información</publishername>
+		<date>2011</date>
+	</publisher>
+    <editor>
+		<orgname class="nonprofit">
+			APEI
+			<inlinemediaobject>
+				<imageobject>
+					<imagedata fileref="resource/INF-6-000.jpg" />
+				</imageobject>
+			</inlinemediaobject>
+		</orgname>
+		<email>info@apei.es</email>
+		<uri type="homepage">
+			http://www.apei.es
+		</uri>
+		<uri type="weblog">
+			http://garabuya.blogspot.com
+		</uri>
+	</editor>
+    <editor>
+		<personname>
+			<honorific>Director editorial</honorific>
+			<firstname>José Antonio</firstname>
+			<surname>Merlo Vega</surname>
+		</personname>
+	</editor>
+	<othercredit class="graphicdesigner">
+		<orgname>Digitales José &amp; Cícero, S.L.</orgname>
+	</othercredit>
+	<legalnotice>
+		<informalfigure>
+			<mediaobject>
+				<imageobject>
+					<imagedata fileref="resource/INF-6-003.jpg" />
+				</imageobject>
+			</mediaobject>
+		</informalfigure>
+    	<para>
+    		Esta obra está bajo una licencia Reconocimiento-No comercial-Compartir bajo la misma licencia 2.5 España de 
+    		Creative Commons: <link xl:href="http://creativecommons.org/licenses/by-nc-sa/2.5/es"/>.
+    	</para>
+    </legalnotice>
+  </info>
+  
+  <xi:include href="ch01.xml" />
+  <xi:include href="ch02.xml" />
+  <xi:include href="ch03.xml" />
+  <xi:include href="ch04.xml" />
+  <xi:include href="ch05.xml" />
+  <xi:include href="ch06.xml" />
+  <xi:include href="ch07.xml" />
+  <xi:include href="ch08.xml" />
+  <xi:include href="ch09.xml" />
+  <xi:include href="ch10.xml" />
+  <xi:include href="ch11.xml" />
+  <xi:include href="ch12.xml" />
+  <xi:include href="ch13.xml" />
+  <xi:include href="ch14.xml" />
+  <xi:include href="bib.xml" />
+  <xi:include href="anexos.xml" />
+  <xi:include href="autores.xml" />
+  <xi:include href="informes.xml" />
+
+</book>

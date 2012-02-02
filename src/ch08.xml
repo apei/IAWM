@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<chapter xml:id="ch08"
+	lang="es" version="5.0" 
+	xmlns="http://docbook.org/ns/docbook" 
+	xmlns:xi="http://www.w3.org/2001/XInclude"
+	xmlns:xl="http://www.w3.org/1999/xlink">
+	<title>Contenidos para la web móvil</title>
+	<para>
+		Las limitaciones de los dispositivos móviles, de los que ya se ha hablado en este informe, son la causa por la que en ocasiones es necesario adaptar 
+		contenidos y servicios para que puedan ser asumidos lo más cómodamente posible por el usuario. El World Wide Web Consortium (W3C) define la adaptación 
+		de contenidos como el proceso de alteración del contenido para mejorar la experiencia de usuario en determinados dispositivos (Rabin y McCathieNevile, 
+		2008). De ella dependerá, por lo tanto, que el público se encuentre cómodo visitando un sitio web y vuelva en próximas ocasiones. Pero, ¿cómo actuar? 
+		¿Qué pautas deben ser tenidas en cuenta? A la hora de plantear un proyecto de adaptación de contenidos para dispositivos móviles es necesario tener 
+		en cuenta varios puntos (Arroyo, 2010):
+	</para>
+	<orderedlist>
+		<listitem>
+			<para>
+				Enfocar la estrategia de adaptación de contenidos. El primer paso para poner en marcha cualquier servicio bibliotecario es conocer quiénes 
+				son nuestros usuarios y, en el caso de una estrategia de movilidad, qué dispositivos emplean. Como consecuencia de esta previa investigación, 
+				se facilitará la toma de decisiones y se optimizarán los esfuerzos a realizar.
+			</para>
+		</listitem>
+		<listitem>
+			<para>
+				Contenidos y servicios a ofertar: ¿cuáles de ellos pueden ser de interés para nuestros usuarios?
+			</para>
+		</listitem>
+		<listitem>
+			<para>
+				Opciones existentes y sus ventajas y desventajas.
+			</para>
+		</listitem>
+		<listitem>
+			<para>
+				Pautas a tener en cuenta en un proceso de adaptación de contenidos.
+			</para>
+		</listitem>
+	</orderedlist>
+	<informalfigure xreflabel="Fig 12">
+		<mediaobject>
+			<imageobject fileref="resource/INF-6-017.jpg"/>
+		</mediaobject>
+		<caption>
+			<para>El sitio web de APEI desde un dispositivo móvil</para>
+		</caption>
+	</informalfigure>
+	<para>
+		Veamos detenidamente estos tres últimos puntos.
+	</para>
+	<section xml:id="ch08a">
+		<title>Contenidos y servicios para la web móvil</title>
+		<para>
+			Es fundamental, antes de comenzar a diseñar un sitio web para móviles, decidir qué servicios y contenidos presentar a nuestros usuarios. En este 
+			ejercicio, es preciso reflexionar sobre qué querrían encontrar en un contexto de movilidad: quizás no les interese leer largos textos —el tamaño de 
+			las pantallas y el estado de movimiento no invita a lecturas largas—, sino más bien obtener datos puntuales, como cuáles son los servicios de la 
+			biblioteca o la disponibilidad de documentos, y hacerlo de la forma más rápida posible.
+		</para>
+		<para>
+			Teniendo en cuenta que los dispositivos móviles tienen muchas otras funcionalidades (recordamos: telefonía y envío de mensajes de texto y multimedia, 
+			captura y reproducción de imagen, sonido y vídeo, descarga de aplicaciones, geoposicionamiento...), se pueden aprovechar para ofrecer servicios e 
+			información únicos y más ricos.
+		</para>
+		<para>
+			No debe perderse de vista el principio <emphasis>One web</emphasis>, evitando crear una web diferente, poniendo a disposición de los usuarios de 
+			dispositivos móviles la misma información y servicios que para terminales fijos (ordenadores de sobremesa y portátiles), aunque adaptados. Finalmente, 
+			es preciso, como se mencionó anteriormente, conocer a qué usuarios dirigirse y qué opciones pueden ser más adecuadas en una situación de movilidad.
+		</para>
+	</section>
+	<section xml:id="ch08b">
+		<title>La estrategia de la movilidad</title>
+		<para>
+			Las opciones de los proveedores de contenidos con respecto a los dispositivos móviles van de las más sencillas, aptas para cualquier persona con 
+			unas mínimas capacidades de navegación, a las más complejas y dependerán de los resultados deseados y del grado de implicación y del esfuerzo que se 
+			esté dispuesto a asumir, así como del tipo de sitio web a adaptar. Un plan razonable pasa por comenzar con una estrategia sencilla para aprender de 
+			la experimentación e ir adoptando un mayor compromiso con el tiempo.
+		</para>
+		<section xml:id="ch08b1">
+			<title>No hacer nada</title>
+			<para>
+				La primera opción ante la web móvil, como señala Moll (2008) es no hacer nada. Esta decisión puede estar fundamentada en varias razones. La primera 
+				de ellas se residiría en que nuestros usuarios no empleen dispositivos móviles o lo hagan de manera muy minoritaria y, por lo tanto, el esfuerzo 
+				realizado supere los resultados o alcance un bajo impacto. Esto debe hacernos pensar, sin embargo, si emprender una estrategia para dispositivos 
+				móviles puede acercarnos a nuevos usuarios.
+			</para>
+			<para>
+				La segunda razón para no hacer nada consistiría en dejar toda la responsabilidad al usuario: algunos dispositivos incorporan facilidades para la 
+				navegación como el zoom, el <emphasis>scroll</emphasis> o el ajuste de páginas web a la pantalla por el propio navegador, mostrando una versión 
+				más compacta que puede ser luego vista por partes con el zoom. Además, siempre existe la posibilidad de emplear los denominados <emphasis>transcoders</emphasis> 
+				o transcodificadores (ver <xref linkend="anexo1" xreflabel="Anexo 1"/>), servicios en línea que adaptan las páginas consultadas sobre la marcha, 
+				como el servicio de Google &lt;<link xl:href="http://www.google.com/gwt/n"/>&gt; o BareSite &lt;<link xl:href="http: //www.baresite.com/"/>&gt;.
+			</para>
+			<para>
+				El problema que se plantea con estas herramientas es que la transformación, al ser automática, no siempre proporciona unos resultados satisfactorios, 
+				tanto en lo que se refiere al diseño como a la pérdida de control de los resultados. Más bien tienden a recomponer los mismos elementos de la página 
+				original, sin tener en cuenta si son óptimos o no.
+			</para>
+			<informalfigure xreflabel="Fig 13">
+				<mediaobject>
+					<imageobject fileref="resource/INF-6-018.jpg"/>
+				</mediaobject>
+				<caption>
+					<para>El sitio web de APEI visto desde un transcodificador</para>
+				</caption>
+			</informalfigure>
+		</section>
+		<section xml:id="ch08b2">
+			<title>Adaptar los contenidos de un sitio web ya existente</title>
+			<para>
+				La segunda gran opción es adaptar los contenidos de nuestro sitio web para grandes pantallas. En este sentido, es posible emplear un servicio de 
+				transcodificación (como los mencionados en el anterior apartado) y enlazar desde nuestro sitio web la página resultante. A las desventajas ya 
+				señaladas para dichos servicios hay que añadir el hecho de que, desde una pequeña pantalla, el navegante debería buscar el enlace correspondiente, 
+				algo que no es fácil si no se encuentra correctamente señalado y en un lugar visible.
+			</para>
+			<para>
+				Una solución más recae en un tipo de servicios web que convierten los contenidos de un sitio y los adaptan: Mofuse 
+				&lt;<link xl:href="http://www.mofuse.com/"/>&gt;, idóneo para blogs y Mobify.me &lt;<link xl:href="http://mobify.me/"/>&gt; son algunos de ellos. 
+				Se trata de una alternativa simple para aquellos que no tengan conocimientos de lenguajes web y solventa el problema del alojamiento.
+			</para>
+			<para>
+				La tercera opción pasa por crear una nueva hoja de estilo específica para dispositivos móviles, sin tener que trabajar en una nueva sede web, y 
+				enlazarla desde la cabecera del código fuente de mi web, agregando el atributo <emphasis>media=”handheld”</emphasis>.
+			</para>
+			<para>
+				<code>&lt;link href=”mobile.css” rel=”stylesheet” type=”text/css” media=”handheld”/&gt;</code>
+			</para>
+			<para>
+				Se trata de una opción interesante, puesto que el usuario no nota nada, sino que directamente accedería a la versión para móvil.
+			</para>
+			<para>
+				A cualquiera de estas opciones se añade un inconveniente: los contenidos de un sitio web diseñado para terminales fijos no tienen por qué ser 
+				idóneos para ser consultados en una situación de movilidad.
+			</para>
+		</section>
+		<section xml:id="ch08b3">
+			<title>Crear un nuevo sitio web optimizado para dispositivos móviles</title>
+			<para>
+				La creación de un nuevo sitio apto para dispositivos móviles supone la opción más considerada con respecto a la web móvil, puesto que juzga 
+				necesaria una revisión de los contenidos, y no sólo del diseño.
+			</para>
+			<para>
+				Existen servicios gratuitos en línea, y también de pago, para la creación y alojamiento de sedes web para móviles. La diferencia con respecto de 
+				los servicios vistos en el anterior apartado radica en el punto de partida, que en este caso es cero, y por lo tanto habrá que agregar todos los 
+				contenidos.
+			</para>
+			<para>
+				Se trata igualmente de una opción cómoda y apta para iniciados, que requiere un mínimo de destreza y de recursos, puesto que no es necesario 
+				disponer de un servidor ni conocer lenguajes de programación web. Algunos de los servicios más populares de este tipo son Ubik 
+				&lt;<link xl:href="http://www.ubik.com/"/>&gt;, también en castellano, y DotMobi &lt;<link xl:href="http://site.mobi/"/>&gt; (ver <xref linkend="anexo1" xreflabel="Anexo 1"/>).
+			</para>
+			<para>
+				Finalmente, la última opción, y la que requiere un mayor esfuerzo y conocimientos, es crear un sitio web para dispositivos móviles desde cero. 
+				Para ello se habrán de tener en cuenta los estándares y pautas indicados en este informe.
+			</para>
+		</section>
+	</section>
+	<section xml:id="ch08c">
+		<title>Pautas para la web móvil</title>
+		<para>
+			A la hora de comenzar a diseñar un sitio web el primer paso es conocer los estándares existentes. Como se explicó en el apartado 5 de este informe, 
+			los navegadores actuales soportan HTML, pero existen estándares específicos como XHTML Mobile Profile 1.0 (XHTML-MP).
+		</para>
+		<para>
+			El W3C, a través de su Best Practices Working Group (BPWG) publicó en 2008 la recomendación <citetitle>Mobile Web Best Practices 1.0</citetitle> 
+			(Rabin y McCathieNevile, 2008). En ella se especifican los requisitos mínimos para un contexto por defecto (Default Delivery Context o DDC), lo que 
+			permite al proveedor procurar una experiencia básica cuando no hay adaptación. Ese contexto mínimo requiere:
+		</para>
+		<itemizedlist>
+			<listitem>
+				<para>
+					Ancho de pantalla mínimo de 120 pixels.
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					Lenguaje de marcado: XHTML Basic 1.1 y content type application/xhtml+xml.
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					Codificación de caracteres UTF-8.
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					Formatos de imagen JPEG y GIF 89a.
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					Peso máximo de la página: 20 kilobytes.
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					Mínimo de 256 colores.
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					Hojas de estilo CSS nivel 1 y CSS nivel 2.
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					HTTP/1.0 o 1.1.
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					Sin script en el lado del cliente.
+				</para>
+			</listitem>
+		</itemizedlist>
+		<para>
+			Partiendo de las limitaciones que plantean los dispositivos móviles, han sido seleccionadas algunas pautas de carácter general a tener en cuenta a la 
+			hora de desarrollar un sitio web para móviles (Arroyo, 2010). Se trata, en todo caso, de pautas que marca el sentido común y que se pueden complementar 
+			con las <citetitle>Mobile Web Best Practices</citetitle> del W3C. En suma, es importante tener presente que el objetivo es mejorar la experiencia de 
+			usuario y que al usuario le resulte sencillo y cómodo navegar.
+		</para>
+		<orderedlist>
+			<listitem>
+				<para>
+					Gran diversidad de dispositivos y fragmentación del mercado. Esto supone:
+				</para>
+				<itemizedlist>
+					<listitem>
+						<para>
+							Diseñar para que una misma página pueda ser vista desde distintos dispositivos. Así se amortizará el trabajo realizado.
+						</para>
+					</listitem>
+					<listitem>
+						<para>
+							Escoger para qué tipos de dispositivos diseñar nuestras páginas. Es posible realizar tantas versiones como se considere oportuno.
+						</para>
+					</listitem>
+					<listitem>
+						<para>
+							Consultar las características de los dispositivos a los que nos dirigimos. Para ello se pueden emplear herramientas como DeviceAtlas 
+							&lt;<link xl:href="http://deviceatlas.com/"/>&gt;.
+						</para>
+					</listitem>
+				</itemizedlist>
+			</listitem>
+			<listitem>
+				<para>
+					Pequeñas pantallas (entre las dos pulgadas de un teléfono móvil y las diez de un ultraportátil o una tableta) y con escasa resolución de pantalla.
+				</para>
+				<itemizedlist>
+					<listitem>
+						<para>
+							Evitar elementos que no puedan verse en la página desde un dispositivo con pantalla pequeña, como imágenes grandes, textos demasiado 
+							largos, o marcos, huyendo del <emphasis>scroll</emphasis> horizontal y vertical simultáneamente.
+						</para>
+					</listitem>
+					<listitem>
+						<para>
+							Facilitar la lectura de los elementos de la pantalla, evitando imágenes de fondo o poco contraste entre fondo y forma.
+						</para>
+					</listitem>
+				</itemizedlist>
+			</listitem>
+			<listitem>
+				<para>
+					Limitaciones en la entrada de datos y la interacción ante la ausencia de teclados <emphasis>qwerty</emphasis> en algunos dispositivos 
+					(que cuando existen son de reducidas dimensiones), lo que hace complicado teclear largas URL o introducir largos textos. El ratón no 
+					existe y la navegación se realiza desde teclas de posición u otros elementos. Las pantallas táctiles y los lápices-puntero facilitan esta labor.
+				</para>
+				<itemizedlist>
+					<listitem>
+						<para>
+							Usar URL cortas y significativas.
+						</para>
+					</listitem>
+					<listitem>
+						<para>
+							Evitar la entrada de texto libre, estableciendo valores preseleccionados siempre que sea posible.
+						</para>
+					</listitem>
+					<listitem>
+						<para>
+							Marcar el orden de tabulación de los enlaces disponibles.
+						</para>
+					</listitem>
+				</itemizedlist>
+			</listitem>
+			<listitem>
+				<para>
+					Algunos dispositivos no soportan determinados formatos.
+				</para>
+				<itemizedlist>
+					<listitem>
+						<para>
+							Evitar formatos que no sean soportados por los dispositivos para los que vamos a desarrollar nuestro sitio web.
+						</para>
+					</listitem>
+					<listitem>
+						<para>
+							Evitar aquellos elementos no compatibles o que pueden dar problemas potencialmente, como objetos o scripts incrustados, 
+							ventanas emergentes o tablas.
+						</para>
+					</listitem>
+				</itemizedlist>
+			</listitem>
+			<listitem>
+				<para>
+					Menor ancho de banda de las conexiones, que además pueden alcanzar un alto coste en función de la cantidad de datos descargada: la navegación 
+					lenta entorpece la experiencia de uso. Por otra parte, los aparatos con conectividad WiFi dependen de la disponibilidad de una red. Los costes 
+					de las conexiones varían de unas operadoras a otras y de los contratos. En la actualidad existen tarifas planas, algunas de ellas con límite 
+					de descarga de datos.
+				</para>
+				<itemizedlist>
+					<listitem>
+						<para>
+							Diseñar páginas ligeras, manteniendo un peso limitado y evitando elementos pesados como imágenes grandes y todo aquello que sea superfluo.
+						</para>
+					</listitem>
+					<listitem>
+						<para>
+							Facilitar la navegación al usuario identificando claramente qué encontrará detrás de cada enlace y creando una estructura lógica 
+							de navegación, asignando títulos claros a las páginas y teclas de acceso rápido en los menús.
+						</para>
+					</listitem>
+					<listitem>
+						<para>
+							Huir de la actualización automática periódica de las páginas sin informar al usuario.
+						</para>
+					</listitem>
+				</itemizedlist>
+			</listitem>
+			<listitem>
+				<para>
+					Menor capacidad de memoria.
+				</para>
+				<itemizedlist>
+					<listitem>
+						<para>
+							Evaluar el uso que los dispositivos a los que nos dirigimos hacen de <emphasis>cookies</emphasis> y de caché.
+						</para>
+					</listitem>
+					<listitem>
+						<para>
+							Asegurarse de que el tamaño total de la página es apropiado para las limitaciones de memoria del dispositivo.
+						</para>
+					</listitem>
+				</itemizedlist>
+			</listitem>
+			<listitem>
+				<para>
+					Situación de movilidad del usuario.
+				</para>
+				<itemizedlist>
+					<listitem>
+						<para>
+							Pensar qué información y servicios pueden ser relevantes y adecuados para un usuario en una situación de movilidad y eliminar todo 
+							lo demás, pues sólo contribuirá a empeorar la experiencia de navegación.
+						</para>
+					</listitem>
+					<listitem>
+						<para>
+							Facilitar al usuario la navegación
+						</para>
+					</listitem>
+					<listitem>
+						<para>
+							Aprovechar las capacidades del dispositivo
+						</para>
+					</listitem>
+				</itemizedlist>
+			</listitem>
+		</orderedlist>
+		<para>
+			Una vez finalizadas las nuevas páginas es conveniente comprobar que funcionan bien probándolas en los dispositivos para los que han sido diseñadas, o 
+			empleando emuladores en su defecto, y comprobando si está todo correcto con algún validador, como el Mobile OK Checker 
+			&lt;<link xl:href="http://validator.w3.org/mobile/"/>&gt; del W3C.
+		</para>
+		<informalfigure xreflabel="Fig 14">
+			<mediaobject>
+				<imageobject fileref="resource/INF-6-019.jpg"/>
+			</mediaobject>
+		</informalfigure>
+		<informalfigure xreflabel="Fig 15">
+			<mediaobject>
+				<imageobject fileref="resource/INF-6-020.jpg"/>
+			</mediaobject>
+		</informalfigure>
+		<informalfigure xreflabel="Fig 16">
+			<mediaobject>
+				<imageobject fileref="resource/INF-6-021.jpg"/>
+			</mediaobject>
+		</informalfigure>
+		<informalfigure xreflabel="Fig 17">
+			<mediaobject>
+				<imageobject fileref="resource/INF-6-022.jpg"/>
+			</mediaobject>
+		</informalfigure>
+		<informalfigure xreflabel="Fig 18">
+			<mediaobject>
+				<imageobject fileref="resource/INF-6-023.jpg"/>
+			</mediaobject>
+		</informalfigure>
+		<informalfigure xreflabel="Fig 19">
+			<mediaobject>
+				<imageobject fileref="resource/INF-6-024.jpg"/>
+			</mediaobject>
+		</informalfigure>
+	</section>
+	<section xml:id="ch08d">
+		<title>Detección de dispositivos</title>
+		<para>
+			Los sistemas de detección de dispositivos móviles reconocen el dispositivo o el navegador desde el que se accede a un sitio web y redireccionan a la 
+			versión adaptada correspondiente. Se trata de una forma eficaz de que los lectores puedan llegar a la versión para móviles automáticamente, sin tener 
+			que buscar enlaces, y desde la misma URL que utilizan desde un terminal fijo. Para ello basta con introducir unas líneas al código fuente de nuestro 
+			sitio web<footnote><para>En el Anexo 1 se indican direcciones en las que se explican métodos para la detección de dispositivo.</para></footnote>. 
+			Algunos de los servicios en línea de alojamiento y creación de sitios web para móviles generan automáticamente el código fuente para la detección de 
+			dispositivos a introducir en nuestro sitio web.
+		</para>
+	</section>
+	<section xml:id="ch08e">
+		<title>Enlaces sólo para dispositivos móviles</title>
+		<para>
+			Los teléfonos móviles presentan funciones específicas como la llamada telefónica o el envío de mensajes de texto o multimedia, son capaces de enviar 
+			correos electrónicos e incluyen agenda personal. Así, ¿por qué no pensar en ellas a la hora de crear nuestro sitio web y facilitar así el trabajo a 
+			quienes lo visitan? La forma de hacerlo es sencilla: cuando mostramos los datos de contacto, es posible incluir enlaces en el número de teléfono o el 
+			correo electrónico que el dispositivo interpreta, haciendo posible así, con sólo hacer clic sobre el enlace, realizar una llamada telefónica, guardar 
+			un número en la agenda o enviar un SMS o un correo. Este es el código adecuado para cada una de esas opciones, que puede variar en función del navegador:
+		</para>
+		<example>
+			<title>Algunos ejemplos de enlaces para dispositivos móviles</title>
+			<para>Hacer una llamada:</para>
+			<para>
+				<code>&lt;a href=“tel:+34985131188”&gt; 985131188&lt;/a&gt;</code>
+				<code>&lt;a href=”wtai://wp/mc; +985131188”&gt; 985131188&lt;/a&gt;</code>
+			</para>
+			<para>Enviar un SMS:</para>
+			<para>
+				<code>&lt;a href=“sms://+34985131188”&gt;envíanos un SMS&lt;/a&gt;</code>
+			</para>
+			<para>Enviar un correo electrónico:</para>
+			<para>
+				<code>&lt;a href=“mailto: info@apei.es”&gt;Enviar email a APEI&lt;/a&gt;</code>
+			</para>
+			<para>Guardar el teléfono en la agenda:</para>
+			<para>
+				<code>&lt;a href=“wtai://wp/ap;+34985131188;APEI”&gt;Añadir a la agenda&lt;/a&gt;</code>
+			</para>
+		</example>
+	</section>
+	<section xml:id="ch08f">
+		<title>Las URL en la web móvil</title>
+		<para>
+			Con el objetivo de identificar las URL de las páginas web para móviles y diferenciarlas de otras, se emplean diferentes métodos que afectan a su 
+			sintaxis y consisten en añadir:
+		</para>
+		<itemizedlist>
+			<listitem>
+				<para>
+					Subdominios como m., mobile., wap., pda., iphone., wml., wireless. o xhtml. Los dos primeros son genéricos y sugieren páginas web para 
+					dispositivos móviles, mientras que los demás especifican un lenguaje o un dispositivo determinado. Así, algunos administradores de sitios 
+					web deciden crear varias versiones para distintos dispositivos móviles, cada una de ellas con una URL que las identifica. A modo de ejemplo: 
+					&lt;<link xl:href="http://pda.apei.es/"/>&gt;, &lt;<link xl:href="http://iphone.apei.es/"/>&gt;, 
+					&lt;<link xl:href="http://wap.apei.es/"/>&gt;<footnote><para>stas direcciones no funcionan correctamente, entiéndanse como un mero ejemplo.</para></footnote>.
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					Carpetas como <emphasis>.../mobile</emphasis>, <emphasis>.../iphone</emphasis> o <emphasis>.../wireless</emphasis>.
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					En 2006 se aprobó la propuesta de un dominio de alto nivel propio de la web móvil, <emphasis>.mobi</emphasis>, leído dot-Mobi (también se le 
+					llama mTLD, por Mobile Top Level Domain). Se trataba de una iniciativa de varias empresas (Google, Nokia, Ericsson, Telefónica y Vodafone son 
+					algunas de ellas), criticada porque sugería una web diferente para móviles.
+				</para>
+			</listitem>
+		</itemizedlist>
+		<para>
+			En todo caso, independientemente de cómo queramos nombrar las URL de nuestras páginas para móviles, se recomienda que sean lo más cortas posible para 
+			facilitar la entrada de datos.
+		</para>
+	</section>
+	<section xml:id="ch08g">
+		<title>Servicios de la web social, blogs y sindicación de contenidos</title>
+		<para>
+			A diferentes estructuras de representación y organización de los contenidos, a diferentes formatos, corresponden distintas reglas. Así, no es lo mismo 
+			hablar de un sitio web, como se ha hecho hasta ahora, que de blogs, servicios de la web social o sindicación de contenidos. La mayor parte de los 
+			servicios de la web social (redes sociales como Facebook o Tuenti, servicios de <emphasis>microblogging</emphasis> como Twitter, servicios para 
+			compartir como Flickr, Delicious, SlideShare o YouTube) cumplen uno de los principios definidos por O’Reilly (2005) para la Web 2.0: el software no se 
+			limita a un solo dispositivo, de manera que podemos encontrar diferentes versiones de ellos para dispositivos móviles.
+		</para>
+		<para>
+			No sucede así con los blogs: los servicios en línea de alojamiento y mantenimiento de blogs no incorporan hojas de estilo para dispositivos móviles, 
+			por lo que es necesario que el administrador del blog realice el trabajo, bien empleando algún servicio gratuito para ello, como Mofuse 
+			&lt;<link xl:href="http://www.mofuse.com/"/>&gt;, o agregando alguna nueva hoja de estilo. Los gestores de contenidos como WordPress solucionan el 
+			problema con la instalación de plugins o extensiones como MobilePress &lt;<link xl:href="http://mobilepress.co.za/"/>&gt; o el paquete de dotMobi 
+			&lt;<link xl:href="http://mobiforge.com/running/story/the-dotmobi-wordpress-mobile-pack"/>&gt;.
+		</para>
+		<informalfigure xreflabel="Fig 20">
+			<mediaobject>
+				<imageobject fileref="resource/INF-6-025.jpg"/>
+			</mediaobject>
+			<caption><para>Blog adaptado para móviles.</para></caption>
+		</informalfigure>
+		<para>
+			En cualquier caso, siempre puede emplearse un agregador para la lectura de blogs y otros canales de sindicación, aunque existe el inconveniente de que 
+			debe ser previamente configurado con las suscripciones a los blogs deseados. La sindicación de contenidos es precisamente uno de los formatos más 
+			versátiles en la web al hacer posible la reutilización de contenidos. Herramientas como Xfruits &lt;<link xl:href="http://www.xfruits.com/"/>&gt;, 
+			MobileRSS &lt;<link xl:href="http://www.mobilerss.net/"/>&gt; o Google Reader &lt;<link xl:href="http://www.google.com/reader/m/"/>&gt; permiten que 
+			esos canales de sindicación puedan ser consultados desde un dispositivo móvil.
+		</para>
+	</section>
+</chapter>

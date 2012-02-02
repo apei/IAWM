@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<appendix xml:id="bio"
+	lang="es" version="5.0" 
+	xmlns="http://docbook.org/ns/docbook" 
+	xmlns:xi="http://www.w3.org/2001/XInclude"
+	xmlns:xl="http://www.w3.org/1999/xlink">
+  <title>Autora</title>
+  <section xml:id="bio01">
+  	<title>Natalia Arroyo Vázquez</title>
+  	<informalfigure xml:id="bio01img">
+	  	<mediaobject>
+	  		<imageobject>
+	  			<imagedata fileref="resource/INF-6-101.jpg" />
+	  		</imageobject>
+	  	</mediaobject>
+	</informalfigure>
+	<para>
+		Natalia Arroyo Vázquez es Licenciada en Documentación y Diploma de Estudios Avanzados por la Universidad de Salamanca y trabaja actualmente como 
+		documentalista en el Departamento de Análisis y Estudios de la Fundación Germán Sánchez Ruipérez. Desde hace varios años viene estudiando la web 
+		social y la movilidad, siendo autora de artículos, comunicaciones y ponencias en los que se analizan las implicaciones de ambos aspectos para las 
+		bibliotecas públicas. En el ámbito docente, ha impartido formación para profesionales de las bibliotecas y centros de documentación de todo el 
+		país sobre los temas antes mencionados. Colabora además en el blog Biblioblog y forma parte del Grupo ThinkEPI y del equipo de redacción de El 
+		Profesional de la Información.
+	</para>
+  </section>
+</appendix>

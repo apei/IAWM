@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<chapter xml:id="ch06"
+	lang="es" version="5.0" 
+	xmlns="http://docbook.org/ns/docbook" 
+	xmlns:xi="http://www.w3.org/2001/XInclude"
+	xmlns:xl="http://www.w3.org/1999/xlink">
+	<title>Conectividad</title>
+	<para>
+		Un elemento esencial para una buena experiencia de navegación desde un dispositivo móvil es la calidad de la conectividad: si no existe, falla o no es 
+		suficientemente rápida, la experiencia de uso se verá resentida. Inevitablemente, para que se dé la condición de movilidad se requieren conexiones 
+		inalámbricas. En este sentido, existen varios tipos de conectividad.
+	</para>
+	<para>
+		Bluetooth es una especificación para redes inalámbricas que hace posible la transmisión de datos en un radio de unos 10 metros. Lleva años implantada 
+		en nuestro país y es una de las funciones más comunes en teléfonos móviles. Se emplea para el intercambio de información entre dispositivos, pero también 
+		para conectar impresoras, auriculares, ratones o cámaras fotográficas y se caracteriza porque exige que ambos terminales den su consentimiento para 
+		conectarse entre sí.
+	</para>
+	<para>
+		El protocolo NFC (Near Field Communication), aún poco popular en nuestro país, pues comienza a implantarse, permite la conexión de corto alcance entre 
+		dispositivos, hasta un máximo de 20 centímetros, para el intercambio de datos. Teniendo en cuenta esta corta distancia, algunas de las utilidades que 
+		se le dan son el pago a través del móvil, el acceso al transporte público o el intercambio de tarjetas de visita, entre otras<footnote><para>En el 
+		siguiente vídeo, producido por el Massachusetts Institute of Technology, se muestran diferentes aplicaciones cotidianas de la tecnología 
+		NFC &lt;<link xl:href="http://vimeo.com/2028724"/>&gt;.</para></footnote>.
+	</para>
+	<informalfigure xreflabel="Fig 9">
+		<mediaobject>
+			<imageobject fileref="resource/INF-6-015.jpg"/>
+		</mediaobject>
+		<caption>
+			<para>Near Field Communication. Imagen de Thomas Purves
+				<link xl:href="http://www.flickr.com/photos/thomaspurves/4367036973/sizes/o/in/photostream/"/>
+			</para>
+		</caption>
+	</informalfigure>
+	<para>
+		Las redes WiFi (Wireless Local Area Network) requieren un punto que emita la señal y de un dispositivo con la tecnología necesaria para que recibirla y 
+		permitir la navegación. Se encuentran extendidas por nuestra geografía, tanto en lugares públicos (bares, hoteles, instituciones educativas, etc.) como 
+		en hogares.
+	</para>
+	<para>
+		Por otra parte, las redes de radio frecuencia son un tipo de redes WAN (Wide Area Network) e incluyen las redes de telefonía móvil, gestionadas por los 
+		operadores de telefonía móvil. Las primeras redes de radio frecuencia fueron las redes 1G, analógicas. A finales de los 80 surgen las redes 2G o GSM 
+		(Global System for Mobile Communications), redes digitales capaces de proveer de mayor calidad y más capacidad a un precio menor. Se trataba de las 
+		primeras redes comerciales de telefonía móvil.
+	</para>
+	<para>
+		Las redes 2,5G o GPRS (Global Packet Radio Service) aumentaron la capacidad de transmisión de información e hicieron posible el envío de mensajes 
+		multimedia y servicios de Internet. En España el GPRS se lanzó en 2001.
+	</para>
+	<para>
+		En 2004 aparecieron los primeros servicios de tercera generación (3G) o UMTS (Universal Mobile Telecommunications System), considerada la primera banda 
+		ancha móvil, aportando comunicaciones más rápidas y permitiendo servicios como voz, fax e Internet, así como el <emphasis>roaming</emphasis> global. Al 
+		3G le han sucedido versiones mejoradas como el 3,5G o HSDPA (High Speed Downlink Packet Access) y el 3,75G o HSUPA (High Speed Uplink Packet Access).
+	</para>
+	<para>
+		El 4G o redes de cuarta generación se encuentran actualmente en proceso de desarrollo y se espera que alcancen velocidades de descarga y subida muy 
+		superiores a las de las redes actuales.
+	</para>
+</chapter>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head><title>Capítulo 11. Geoposicionamiento</title><link rel="stylesheet" type="text/css" href="style.css"/><meta name="generator" content="DocBook XSL Stylesheets V1.76.1-RC2"/></head><body><div xml:lang="es" class="chapter" title="Capítulo 11. Geoposicionamiento"><div class="titlepage"><div><div><h1 class="title"><a id="ch11"/>Capítulo 11. Geoposicionamiento</h1></div></div></div><p>
+		La descripción de un objeto en función de unas coordenadas de latitud y longitud es lo que se conoce como geoposicionamiento. La aparición de servicios 
+		como Google Maps y Google Earth ha puesto de moda un tipo de información, la basada en localización, que antes era exclusiva de ámbitos como el militar 
+		o el cartográfico. Gracias a dichos servicios se dispone de mapas que se pueden reutilizar en cualquier sitio web o para el funcionamiento de un nuevo 
+		sitio (como ejemplo, Panoramio &lt;<a class="link" href="http://www.panoramio.com">http://www.panoramio.com</a>&gt;, un mashup<sup>[<a id="d0e1337" href="#ftn.d0e1337" class="footnote">14</a>]</sup> que emplea los mapas de Google para situar 
+		sobre ellos las imágenes que cargan los usuarios).
+	</p><p>
+		¿Qué se puede situar en un mapa? De todo: los vídeos de YouTube, las imágenes de Panoramio o Flickr, los <span class="emphasis"><em>tuiteos</em></span> de Twitter, lugares 
+		como hoteles, restaurantes, bares, universidades, bibliotecas o cualquier información sobre cualquiera de ellos.
+	</p><p>
+		Aunque la posición también puede ser detectada por los navegadores de los terminales fijos, esta funcionalidad es especialmente inherente a los 
+		dispositivos móviles por su capacidad de movimiento y porque los más completos incorporan sistemas para determinar la ubicación. Algunas de las formas 
+		que tienen para detectar la posición son:
+	</p><div class="itemizedlist"><ul class="itemizedlist"><li class="listitem"><p>
+				El Sistema de Posicionamiento Global (GPS) se basa en los satélites para determinar la posición de quien lo lleva. Su margen de error oscila entre 
+				los cinco y los cien metros. Los <span class="emphasis"><em>smartphones</em></span> suelen incorporar GPS.
+			</p></li><li class="listitem"><p>
+				Usando las redes de los operadores de telefonía móvil es posible establecer la posición del dispositivo. La exactitud del dato depende del número 
+				de torres de telefonía móvil en los alrededores.
+			</p></li><li class="listitem"><p>
+				El sistema de posicionamiento WiFi (WPS) permite detectar la posición a partir de los <span class="emphasis"><em>routers</em></span> más cercanos. Este es el 
+				sistema que utilizan iPhone, iPod Touch y iPad.
+			</p></li><li class="listitem"><p>
+				Detectando la dirección IP del cliente y comprobando su situación. Para ello existen bases de datos públicas. El nivel de exactitud es el 
+				primero de los inconvenientes de este sistema, que sólo llega a nivel de ciudad o región.
+			</p></li><li class="listitem"><p>
+				Localización interior, que consiste en identificar la localización dentro de un edificio a partir de los <span class="emphasis"><em>hotspots</em></span> de la 
+				WiFi. De esta manera es posible recibir información contextualizada dentro de un centro comercial, por ejemplo, unos grandes almacenes o un 
+				edificio de oficinas, sobre ofertas especiales en una planta o sección.
+			</p></li><li class="listitem"><p>
+				Preguntando al usuario para que introduzca sus datos de localización, por ejemplo el código postal o el nombre de la ciudad en que se encuentra.
+			</p></li></ul></div><p>
+		Combinada con otra información, la geolocalización da lugar a los llamados sistemas basados en localización, que pueden tener utilidades prácticas como 
+		las siguientes:
+	</p><div class="itemizedlist"><ul class="itemizedlist"><li class="listitem"><p>
+				Andar en una ciudad que no conocemos y poder localizar el lugar al que nos dirigimos.
+			</p></li><li class="listitem"><p>
+				Encontrar servicios cercanos a nuestra posición en el mapa.
+			</p></li><li class="listitem"><p>
+				Superponer contenidos relacionados con el lugar en el que estamos.
+			</p></li><li class="listitem"><p>
+				Detectar lugares y visualizar información relacionada con ellos.
+			</p></li><li class="listitem"><p>
+				Obtener recomendaciones de lugares cercanos.
+			</p></li><li class="listitem"><p>
+				Recibir información personalizada basada en la localización, lo que abre vías para el llamado geomarketing.
+			</p></li></ul></div><p>
+		La posición se convierte además en información que compartir con las redes de contactos en los servicios de la web social, de la misma manera que se comparten 
+		vídeos en YouTube o enlaces favoritos en Delicious, se señala el lugar en que nos encontramos en Foursquare &lt;<a class="link" href="http://foursquare.com/">http://foursquare.com/</a>&gt; 
+		o Gowalla &lt;<a class="link" href="http://gowalla.com/">http://gowalla.com/</a>&gt;. A través de ellos se invita a los usuarios a jugar a conseguir premios virtuales que se desbloquean 
+		al marcar un número determinado de lugares. De esta manera, el servicio obtiene una gran base de datos de lugares en todo el mundo, clasificados y 
+		comentados a la que han contribuido los propios usuarios. Parte del interés de Foursquare reside en que sus datos son aprovechados por otras aplicaciones 
+		basadas en geoposicionamiento, como Acrossair o Wikitude.
+	</p><div class="informalfigure"><div class="mediaobject"/></div><div class="informalfigure"><div class="mediaobject"/></div><div class="informalfigure"><div class="mediaobject"/><div class="caption"><p>FourSquare</p></div></div><p>
+		Incluso redes sociales consolidadas han incorporado la posibilidad de compartir la localización: los Places &lt;<a class="link" href="http://www.facebook.com/places/">http://www.facebook.com/places/</a>&gt; 
+		de Facebook y los Sitios &lt;<a class="link" href="http://sitios.tuenti.com/">http://sitios.tuenti.com/</a>&gt; de Tuenti, incluso Latitude &lt;<a class="link" href="http://www.google.es/latitude/">http://www.google.es/latitude/</a>&gt; 
+		de Google, son algunos ejemplos.
+	</p><p>
+		No faltan voces que señalan los riesgos que entraña para la privacidad marcar el lugar en que nos encontramos, puesto que se trata de información de 
+		carácter personal que permite trazar nuestra posición en cada momento. Así, la Agencia Europea de Redes y Seguridad de la Información 
+		(ENISA)<sup>[<a id="d0e1427" href="#ftn.d0e1427" class="footnote">15</a>]</sup> recomienda 
+		desactivar los servicios basados en localización cuando no se utilicen, controlar las opciones de seguridad de las aplicaciones que emplean datos de 
+		localización y ser conscientes de la información que difundimos.
+	</p><p>
+		Como señala Margaix (2008), la utilización que se está haciendo de la geolocalización por parte de las bibliotecas se basa especialmente en la ubicación 
+		de sus puntos de servicio. Sirvan como ejemplos el mapa de bibliotecas públicas de Castilla y León 
+		&lt;<a class="link" href="http://www.bibliotecaspublicas.info/bpcyl/info/mapa_bcyl">http://www.bibliotecaspublicas.info/bpcyl/info/mapa_bcyl</a>&gt; o el mapa colaborativo de las bibliotecas Públicas de Euskadi 
+		&lt;<a class="link" href="http://liburutegiak.wikispaces.com/Mapa+de+bibliotecas+de+Euskadi">http://liburutegiak.wikispaces.com/Mapa+de+bibliotecas+de+Euskadi</a>&gt;. Pero también para ofrecer rutas y guías turísticas –Mapa 
+		literario de Muskiz &lt;<a class="link" href="http://www.muskiz-liburutegia.org/mapalit.html">http://www.muskiz-liburutegia.org/mapalit.html</a>&gt;, realizado con MapSack– o indicar otras ubicaciones 
+		importantes.
+	</p><p>
+		Trasladándonos al mundo de los dispositivos móviles, la ubicación alcanza otras posibilidades: al combinarse con la posición del usuario, que está en 
+		movimiento, es posible obtener información única para cada persona, basada en la posición en que se encuentra, de ahí el interés que suscita en el mundo 
+		de la publicidad. Así, algunas de las aplicaciones y sitios web para móviles aprovechan esta funcionalidad. Recordemos las aplicaciones citadas 
+		anteriormente, Library y WolfWalk &lt;<a class="link" href="http://www.lib.ncsu.edu/m/wolfwalk/?browse=iphone">http://www.lib.ncsu.edu/m/wolfwalk/?browse=iphone</a>&gt; (Sierra, Dietz y Wust, 2010). Esta última 
+		describe la colección fotográfica del campus situándola en el mapa y relacionándola con la ubicación del usuario. Incluso el catálogo de la OCLC, WorldCat 
+		mobile &lt;<a class="link" href="http://www.worldcat.org/mobile/">http://www.worldcat.org/mobile/</a>&gt;, hace uso de la geolocalización para buscar los fondos del catálogo en el lugar más 
+		cercano, pero en este caso preguntando al usuario.
+	</p><p>
+		Otro punto a tener en cuenta son las redes sociales basadas en localización (Foursquare, Gowalla, Facebook Places...), en las que se vierten comentarios 
+		y opiniones sobre los lugares reseñados y que proveen de datos a otros servicios, por lo que pueden servir como punto para localizar la biblioteca: ¿está 
+		nuestra biblioteca señalada en esos servicios? ¿Son los datos correctos? ¿Qué se dice acerca de ella? ¿Es fácil ubicarla en el mapa a partir de los datos 
+		que hay en la web?.
+	</p><p>
+		Finalmente, la descripción de los recursos de la biblioteca en función de latitud y longitud (por ejemplo, en Twitter, o ubicando nuestras fotos en el mapa) permitirá que se recuperen nuestros contenidos según de parámetros geográficos. De esta utilidad se valen también los navegadores de realidad aumentada, como se explicará más adelante.
+	</p><div class="footnotes"><br/><hr/><div class="footnote"><p><sup>[<a id="ftn.d0e1337" href="#d0e1337" class="para">14</a>] </sup>Término que ProgrammableWeb 
+		&lt;<a class="link" href="http://www.programmableweb.com/">http://www.programmableweb.com/</a>&gt; define como una página web o una aplicación que combina datos de dos o más fuentes externas en 
+		línea, bien a través de APIs, sindicación de contenidos o screen-scrapping, entre otros.</p></div><div class="footnote"><p><sup>[<a id="ftn.d0e1427" href="#d0e1427" class="para">15</a>] </sup>Online as soon as it happens. European Network and Information Security Agency, 2010. Disponible en: 
+		&lt;<a class="link" href="http://www.enisa.europa.eu/act/ar/deliverables/2010/onlineasithappens/at_download/fullReport">http://www.enisa.europa.eu/act/ar/deliverables/2010/onlineasithappens/at_download/fullReport</a>&gt;</p></div></div></div></body></html>

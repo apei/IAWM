@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<appendix xml:id="informes"
+	lang="es" version="5.0" 
+	xmlns="http://docbook.org/ns/docbook" 
+	xmlns:xi="http://www.w3.org/2001/XInclude"
+	xmlns:xl="http://www.w3.org/1999/xlink">
+  <title>Informes de APEI</title>
+  <orderedlist>
+  	<listitem>
+  		<para>
+  			Informe APEI sobre web social  por Dídac Margaix Arnal. 2008.
+  		</para>
+  	</listitem>
+  	<listitem>
+  		<para>
+  			Informe APEI sobre acceso abierto  por Julio Alonso Arévalo, Imma Subirats Coll y María Luisa Martínez Conde. 2008.
+  		</para>
+  	</listitem>
+  	<listitem>
+  		<para>
+  			Informe APEI sobre usabilidad por Yusef Hassan Montero y Sergio Ortega Santamaría. 2009
+  		</para>
+  	</listitem>
+  	<listitem>
+  		<para>
+  			Informe APEI sobre vigilancia tecnológica por Lara Rey Vázquez. 2009
+  		</para>
+  	</listitem>
+  	<listitem>
+  		<para>
+  			Informe APEI sobre alfabetización informacional por Andoni Calderón Rehecho. 2010
+  		</para>
+  	</listitem>
+  	<listitem>
+  		<para>
+  			Informe APEI sobre movilidad por Natalia Arroyo Vázquez. 2011
+  		</para>
+  	</listitem>
+  </orderedlist>
+  <informalfigure>
+	  	<mediaobject>
+	  		<imageobject>
+	  			<imagedata fileref="resource/INF-6-100.jpg" />
+	  		</imageobject>
+	  	</mediaobject>
+	</informalfigure>
+	<para>
+		<link xl:href="http://www.apei.es" />
+	</para>
+	<para>
+		<link xl:href="info@apei.es" />
+	</para>
+	<para><date>2011</date></para>
+</appendix>

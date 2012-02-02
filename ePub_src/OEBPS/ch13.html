@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head><title>Capítulo 13. Realidad aumentada</title><link rel="stylesheet" type="text/css" href="style.css"/><meta name="generator" content="DocBook XSL Stylesheets V1.76.1-RC2"/></head><body><div xml:lang="es" class="chapter" title="Capítulo 13. Realidad aumentada"><div class="titlepage"><div><div><h1 class="title"><a id="ch13"/>Capítulo 13. Realidad aumentada</h1></div></div></div><p>
+		Entre la ciencia ficción y los avances tecnológicos, la mezcla de realidad y virtualidad nos ha hecho soñar con mundos que colonizar, experiencias diferentes 
+		y nuevas formas de interactuar con personas y máquinas. Lejos de imágenes imposibles que películas como <span class="emphasis"><em>Matrix</em></span> nos han dejado, la 
+		realidad aumentada supone la mezcla de realidad y virtualidad con mayor dosis de realidad, pues introduce elementos digitales (imágenes, texto, sonido o 
+		vídeo) en nuestro mundo y lo complementa aportando valor.
+	</p><p>
+		Aunque todo esto sigue sonando a ficción, la realidad aumentada se ha comenzado a hacer popular en esta década, pero su historia arranca mucho antes, en 
+		los años sesenta, con inventos como Sensorama, un simulador que proporcionaba la ilusión de realidad con películas en 3D a las que se añadían sensaciones 
+		como olor, sonido estéreo, vibración del asiento y aire, o el llamado <span class="emphasis"><em>head-mounted display</em></span> (HDM) de Sutherland, un dispositivo que se 
+		colocaba sobre la cabeza. No es hasta los años noventa cuando Tom Claudell y David Mizell acuñan el término realidad aumentada y comienza a publicarse 
+		bibliografía científica y celebrarse los primeros congresos sobre el tema, a la par que se van produciendo algunos avances tecnológicos que hacen posibles 
+		los sistemas de hoy, como el GPS o las cámaras de los teléfonos móviles.
+	</p><p>
+		La mezcla entre realidad y virtualidad se puede llevar a la práctica de varias formas: mediante dispositivos que se montan en la cabeza del usuario, 
+		como cascos o lentes monoculares o binoculares, y que bien proyectan imágenes sobre la retina del ojo humano, hacen uso de vídeo o combinadores ópticos, 
+		o bien proyectan las imágenes en superficies reflectivas. Incluso mediante proyectores que integran la imagen virtual en la realidad (Bimber y Raskar, 
+		2005)—, pero la más popular actualmente es empleando <span class="emphasis"><em>smartphones</em></span>, pues se sirve de aparatos cotidianos al alcance de cualquiera.
+	</p><p>
+		Los <span class="emphasis"><em>smartphones</em></span> capturan la realidad con su cámara y la muestran en su pantalla junto con capas virtuales superpuestas. Así, el 
+		resultado final lo encontraremos en su pantalla. Tomando además como referencia las coordenadas de posición, que el dispositivo detecta de diferentes 
+		maneras (véase el <a class="xref" href="ch11.html" title="Capítulo 11. Geoposicionamiento">Capítulo 11, <em>Geoposicionamiento</em></a>), la orientación (a través de la brújula) o el movimiento (desde el acelerómetro y el 
+		giroscopio) esa información puede situarse en un contexto determinado, de manera que el usuario reciba contenidos relacionados con el lugar en que se 
+		encuentra.
+	</p><p>
+		Otra forma de contextualizar la información se basa en los marcadores 2D, cuya estética recuerda a los códigos bidimensionales, denominados CyberCode 
+		y que contienen las referencias para mostrar una capa virtual en una posición y orientación determinados. También requieren el uso de un dispositivo 
+		adecuado con una aplicación determinada. Algunos están programados para ser capturados con la webcam del ordenador y requieren de la instalación de 
+		un programa para ver el resultado final. Ejemplo de ello es la campaña realizada por la revista Esquire 
+		&lt;<a class="link" href="http://www.esquire.com/the-side/augmented-reality">http://www.esquire.com/the-side/augmented-reality</a>&gt;, que muestra la mezcla de realidad y virtualidad en la pantalla del ordenador.
+	</p><p>
+		En definitiva, para que la realidad aumentada funcione son necesarios varios elementos:
+	</p><div class="itemizedlist"><ul class="itemizedlist"><li class="listitem"><p>
+				Hardware: dispositivo con cámara integrada y pantalla para mostrar el resultado.
+			</p></li><li class="listitem"><p>
+				Software: programas o aplicaciones que permitan detectar puntos de referencia y superponer a ellos la información determinada.
+			</p></li></ul></div><p>
+		La utilidad más habitual de la realidad aumentada consiste en proporcionar información de utilidad en un contexto determinado, basándose en el 
+		geoposicionamiento como buscar la gasolinera más cercana o los restaurantes a los alrededores. De ello se encargan los navegadores de realidad 
+		aumentada, aplicaciones para dispositivos móviles que se hacen la mezcla efectiva. Pero hay otras utilidades basadas en la superposición de objetos 
+		sobre la realidad, por ejemplo para simular cómo quedaría un mueble en un espacio determinado de mi casa (catálogo de Ikea 
+		&lt;<a class="link" href="http://newcreatives.com/?userID=1242735295">http://newcreatives.com/?userID=1242735295</a>&gt;), pero también para jugar (Invizimals para PSP 
+		&lt;<a class="link" href="http://www.invizimals.com/home.php?locale=es_ES">http://www.invizimals.com/home.php?locale=es_ES</a>&gt;) o crear efectos sorprendentes, como ver un platillo volador sobre el cielo.
+	</p><p>
+		Los navegadores de realidad aumentada se organizan en capas de contenidos: algunas de ellas aprovechan los datos agregados por los usuarios en servicios 
+		de la web social (Foursquare, Wikipedia, Panoramio, Yelp, Flickr, Google Local, Twitter...) haciendo uso de las API de dichos servicios y reutilizando 
+		su información.
+	</p><p>
+		Las capas también pueden ser agregadas por desarrolladores externos, que encuentran en el navegador una plataforma gratuita para difundir información 
+		basada en localización. El desarrollo de capas requiere conocimientos de lenguajes de programación, pero en algunos casos existen sistemas sencillos 
+		para introducir datos, que se basan en tres principios:
+	</p><div class="itemizedlist"><ul class="itemizedlist"><li class="listitem"><p>
+				Colaboración directa, o lo que se denomina etiquetado del mundo. Navegadores como Wikitude o Junaio permiten introducir en el momento, directamente 
+				a través de la aplicación, comentarios geoetiquetados.
+			</p></li><li class="listitem"><p>
+				Colaboración indirecta, mediante la participación en otros servicios. Si algo nos han enseñado los servicios de la web social es a reutilizar los 
+				contenidos geoposicionados procedentes de la inteligencia colectiva. Así, se reutilizan datos procedentes de Google Local, Wikipedia, Twitter, 
+				Foursquare, Yelp.
+			</p></li><li class="listitem"><p>
+				Creando capas de datos. Se trata de la opción más compleja, pero para la cual también hay soluciones sencillas.
+			</p></li></ul></div><div class="informalfigure"><div class="mediaobject"/></div><div class="informalfigure"><div class="mediaobject"/><div class="caption"><p>Navegador de realidad aumentada.</p></div></div><p>
+		El primer navegador de realidad aumentada fue Wikitude &lt;<a class="link" href="http://www.wikitude.org/">http://www.wikitude.org/</a>&gt;, creado en 2008 por la empresa Mobilizy. 
+		Entre sus ventajas está la facilidad para crear nuevas capas, o como ellos lo llaman, nuevos “mundos” a través de la plataforma Wikitude.me 
+		&lt;<a class="link" href="http://wikitude.me/">http://wikitude.me/</a>&gt;. Esto se consigue introduciendo puntos de interés o POI (del inglés points of interest, que son cada una 
+		de las ubicaciones marcadas) con información añadida (texto, imágenes, enlaces, información de contacto...) –o lo que es lo mismo, etiquetando la 
+		realidad– o importando un grupo de ellos en un fichero con formato KML (que se puede generar fácilmente desde Google Earth) o ARML 
+		&lt;<a class="link" href="http://www.openarml.org/wikitude4.html">http://www.openarml.org/wikitude4.html</a>&gt; (Augmented Reality Markup Language), una especificación basada en XML que sirve para 
+		crear contenidos visibles en varios navegadores de realidad aumentada.
+	</p><div class="informalfigure"><div class="mediaobject"/><div class="caption"><p>Introducción de datos en Wikitude.</p></div></div><p>
+		Funcionamiento similar es el de Layar &lt;<a class="link" href="http://www.layar.com/">http://www.layar.com/</a>&gt;, otro navegador de realidad aumentada que funciona sobre iPhone 
+		y Android. La posibilidad por parte de terceros de añadir capas también existe, pero en este caso es más complicada y se requiere conocimientos de PHP, 
+		MySQL y JSON, aunque existen servidores que facilitan la tarea, como Hoppala o PorPOISe. Permite capas gratuitas y de pago.
+	</p><p>
+		Acrossair &lt;<a class="link" href="http://www.acrossair.com/">http://www.acrossair.com/</a>&gt; es una empresa que ha desarrollado varias aplicaciones de realidad aumentada. Una de 
+		ellas es un navegador con datos de terceros que integra datos locales (Foursquare, Panoramio, Twitter, Flickr, localizador del coche aparcado y de 
+		restaurantes, hoteles y otros servicios...) en mapas de Google. Otras aplicaciones de esta empresa son localizadores de la estación de metro más cercana, 
+		algunas para ciudades específicas como Nueva York, Londres, Barcelona, Tokio o Madrid.
+	</p><p>
+		Además, existen algunos navegadores, como Junaio o Sekai Camera, que permiten agregar contenidos (imágenes, texto, sonido) sobre la capa de realidad, de 
+		modo colaborativo. Sekai Camera &lt;<a class="link" href="http://sekaicamera.com/">http://sekaicamera.com/</a>&gt; es una aplicación de origen nipón para comunicarse con otras personas, 
+		permite enviar etiquetas, AirTags (texto, foto o sonido) y se muestran en forma de bocadillos. Éstas se pueden conectar con Facebook y Twitter. También 
+		es posible instalar alguna de sus aplicaciones con juegos. Junaio &lt;<a class="link" href="http://www.junaio.com/">http://www.junaio.com/</a>&gt; destaca su particularidad de admitir 
+		objetos virtuales en 3D con Junaio GLUE.
+	</p><p>
+		El reconocimiento facial ha sido explorado por la empresa TAT, que trabaja en una aplicación para identificar nuestros perfiles en redes sociales a 
+		partir de los rasgos faciales. En este vídeo se explica cómo funcionaría &lt;<a class="link" href="http://www.youtube.com/watch?v=tb0pMeg1UN0">http://www.youtube.com/watch?v=tb0pMeg1UN0</a>&gt;.
+	</p><p>
+		Las aplicaciones turísticas son algunas de las más evidentes: imagina poder recorrer una ciudad o un museo apuntando con el <span class="emphasis"><em>smartphone</em></span> 
+		a un edificio o una obra de arte y obteniendo más datos acerca de él. Otras posibles utilidades son la escalada, astronomía, mostrar información 
+		meteorológica, localizar el lugar en que has aparcado, o los últimos crímenes que se han cometido en los alrededores.
+	</p><p>
+		Se empieza a hablar en algunos blogs de las posibles aplicaciones de la realidad aumentada en bibliotecas, pero aún se trata de una tecnología poco 
+		implantada. Aún así, podemos vislumbrar algunos de sus posibles frutos. Los navegadores de realidad aumentada se basan especialmente en proveer servicios 
+		basados en localización, como localizar lugares cercanos. Así, la organización del último Congreso Nacional de Bibliotecas Públicas sorprendió con una 
+		capa de realidad aumentada en Layar &lt;<a class="link" href="http://www.layar.com/layers/bibliotecas2010">http://www.layar.com/layers/bibliotecas2010</a>&gt; que servía para señalar los lugares del congreso 
+		(hoteles, restaurantes y la sala de convenciones) en la ciudad de Gijón, junto con información adicional como los datos de contacto.
+	</p><p>
+		Fruto de los experimentos de Fernando Juárez, bibliotecario de Muskiz, con la realidad aumentada son estos dos vídeos: 
+		&lt;<a class="link" href="http://www.youtube.com/watch?v=rY2_IgrJdng">http://www.youtube.com/watch?v=rY2_IgrJdng</a>&gt; y &lt;<a class="link" href="http://www.youtube.com/watch?v=UGjAMM8PVQc">http://www.youtube.com/watch?v=UGjAMM8PVQc</a>&gt;. En ellos se 
+		muestra cómo sacar partido a los móviles para ayudarnos a entender la historia. Su funcionamiento se basa en una capa de Layar que permite visualizar 
+		imágenes e información de un hecho histórico asociadas al lugar en que se produjo.
+	</p><p>
+		Pressley (2010) apunta muchas otras: creación de guías turísticas; combinados con códigos 2D se puede mostrar información virtual o visualizaciones 
+		peculiares sobre determinados espacios de la biblioteca, crear juegos o materiales didácticos enriquecidos con imágenes virtuales; comunicación con 
+		los usuarios a través de tuits que se visualizan en el espacio de la biblioteca, la creación de espacios virtuales y documentación de la biblioteca, 
+		u obtener información relacionada con un libro cuando se apunta a él (código de barras o portada).
+	</p></div></body></html>

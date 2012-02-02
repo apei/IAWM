@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head><title>8.2. La estrategia de la movilidad</title><link rel="stylesheet" type="text/css" href="style.css"/><meta name="generator" content="DocBook XSL Stylesheets V1.76.1-RC2"/></head><body><div class="section" title="8.2. La estrategia de la movilidad"><div class="titlepage"><div><div><h1 class="title"><a id="ch08b"/>8.2. La estrategia de la movilidad</h1></div></div></div><p>
+			Las opciones de los proveedores de contenidos con respecto a los dispositivos móviles van de las más sencillas, aptas para cualquier persona con 
+			unas mínimas capacidades de navegación, a las más complejas y dependerán de los resultados deseados y del grado de implicación y del esfuerzo que se 
+			esté dispuesto a asumir, así como del tipo de sitio web a adaptar. Un plan razonable pasa por comenzar con una estrategia sencilla para aprender de 
+			la experimentación e ir adoptando un mayor compromiso con el tiempo.
+		</p><div class="section" title="8.2.1. No hacer nada"><div class="titlepage"><div><div><h2 class="title"><a id="ch08b1"/>8.2.1. No hacer nada</h2></div></div></div><p>
+				La primera opción ante la web móvil, como señala Moll (2008) es no hacer nada. Esta decisión puede estar fundamentada en varias razones. La primera 
+				de ellas se residiría en que nuestros usuarios no empleen dispositivos móviles o lo hagan de manera muy minoritaria y, por lo tanto, el esfuerzo 
+				realizado supere los resultados o alcance un bajo impacto. Esto debe hacernos pensar, sin embargo, si emprender una estrategia para dispositivos 
+				móviles puede acercarnos a nuevos usuarios.
+			</p><p>
+				La segunda razón para no hacer nada consistiría en dejar toda la responsabilidad al usuario: algunos dispositivos incorporan facilidades para la 
+				navegación como el zoom, el <span class="emphasis"><em>scroll</em></span> o el ajuste de páginas web a la pantalla por el propio navegador, mostrando una versión 
+				más compacta que puede ser luego vista por partes con el zoom. Además, siempre existe la posibilidad de emplear los denominados <span class="emphasis"><em>transcoders</em></span> 
+				o transcodificadores (ver <a class="xref" href="apa.html" title="Apéndice A. Anexos">Apéndice A, <em>Anexos</em></a>), servicios en línea que adaptan las páginas consultadas sobre la marcha, 
+				como el servicio de Google &lt;<a class="link" href="http://www.google.com/gwt/n">http://www.google.com/gwt/n</a>&gt; o BareSite &lt;<a class="link" href="http: //www.baresite.com/">http: //www.baresite.com/</a>&gt;.
+			</p><p>
+				El problema que se plantea con estas herramientas es que la transformación, al ser automática, no siempre proporciona unos resultados satisfactorios, 
+				tanto en lo que se refiere al diseño como a la pérdida de control de los resultados. Más bien tienden a recomponer los mismos elementos de la página 
+				original, sin tener en cuenta si son óptimos o no.
+			</p><div class="informalfigure"><div class="mediaobject"/><div class="caption"><p>El sitio web de APEI visto desde un transcodificador</p></div></div></div><div class="section" title="8.2.2. Adaptar los contenidos de un sitio web ya existente"><div class="titlepage"><div><div><h2 class="title"><a id="ch08b2"/>8.2.2. Adaptar los contenidos de un sitio web ya existente</h2></div></div></div><p>
+				La segunda gran opción es adaptar los contenidos de nuestro sitio web para grandes pantallas. En este sentido, es posible emplear un servicio de 
+				transcodificación (como los mencionados en el anterior apartado) y enlazar desde nuestro sitio web la página resultante. A las desventajas ya 
+				señaladas para dichos servicios hay que añadir el hecho de que, desde una pequeña pantalla, el navegante debería buscar el enlace correspondiente, 
+				algo que no es fácil si no se encuentra correctamente señalado y en un lugar visible.
+			</p><p>
+				Una solución más recae en un tipo de servicios web que convierten los contenidos de un sitio y los adaptan: Mofuse 
+				&lt;<a class="link" href="http://www.mofuse.com/">http://www.mofuse.com/</a>&gt;, idóneo para blogs y Mobify.me &lt;<a class="link" href="http://mobify.me/">http://mobify.me/</a>&gt; son algunos de ellos. 
+				Se trata de una alternativa simple para aquellos que no tengan conocimientos de lenguajes web y solventa el problema del alojamiento.
+			</p><p>
+				La tercera opción pasa por crear una nueva hoja de estilo específica para dispositivos móviles, sin tener que trabajar en una nueva sede web, y 
+				enlazarla desde la cabecera del código fuente de mi web, agregando el atributo <span class="emphasis"><em>media=”handheld”</em></span>.
+			</p><p>
+				
+               <code class="code">&lt;link href=”mobile.css” rel=”stylesheet” type=”text/css” media=”handheld”/&gt;</code>
+			
+            </p><p>
+				Se trata de una opción interesante, puesto que el usuario no nota nada, sino que directamente accedería a la versión para móvil.
+			</p><p>
+				A cualquiera de estas opciones se añade un inconveniente: los contenidos de un sitio web diseñado para terminales fijos no tienen por qué ser 
+				idóneos para ser consultados en una situación de movilidad.
+			</p></div><div class="section" title="8.2.3. Crear un nuevo sitio web optimizado para dispositivos móviles"><div class="titlepage"><div><div><h2 class="title"><a id="ch08b3"/>8.2.3. Crear un nuevo sitio web optimizado para dispositivos móviles</h2></div></div></div><p>
+				La creación de un nuevo sitio apto para dispositivos móviles supone la opción más considerada con respecto a la web móvil, puesto que juzga 
+				necesaria una revisión de los contenidos, y no sólo del diseño.
+			</p><p>
+				Existen servicios gratuitos en línea, y también de pago, para la creación y alojamiento de sedes web para móviles. La diferencia con respecto de 
+				los servicios vistos en el anterior apartado radica en el punto de partida, que en este caso es cero, y por lo tanto habrá que agregar todos los 
+				contenidos.
+			</p><p>
+				Se trata igualmente de una opción cómoda y apta para iniciados, que requiere un mínimo de destreza y de recursos, puesto que no es necesario 
+				disponer de un servidor ni conocer lenguajes de programación web. Algunos de los servicios más populares de este tipo son Ubik 
+				&lt;<a class="link" href="http://www.ubik.com/">http://www.ubik.com/</a>&gt;, también en castellano, y DotMobi &lt;<a class="link" href="http://site.mobi/">http://site.mobi/</a>&gt; (ver <a class="xref" href="apa.html" title="Apéndice A. Anexos">Apéndice A, <em>Anexos</em></a>).
+			</p><p>
+				Finalmente, la última opción, y la que requiere un mayor esfuerzo y conocimientos, es crear un sitio web para dispositivos móviles desde cero. 
+				Para ello se habrán de tener en cuenta los estándares y pautas indicados en este informe.
+			</p></div></div></body></html>

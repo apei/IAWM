@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<chapter xml:id="ch12"
+	lang="es" version="5.0" 
+	xmlns="http://docbook.org/ns/docbook" 
+	xmlns:xi="http://www.w3.org/2001/XInclude"
+	xmlns:xl="http://www.w3.org/1999/xlink">
+	<title>Códigos bidimensionales</title>
+	<para>
+		Los códigos bidimensionales son la evolución de los códigos de barras. También conocidos como códigos 2D, códigos de matriz o más popularmente como 
+		códigos bidi (por bidimensionales), permiten almacenar más contenidos que un código de barras en el mismo espacio, pues aprovechan ancho y alto.
+	</para>
+	<para>
+		Existen varios tipos de códigos bidimensionales —Maxicode, Aztec, Semacode, DataMatrix, ShotCode y BeeTag son algunos de ellos—, pero los más 
+		populares son los códigos QR (por <emphasis>Quick Response</emphasis>, respuesta rápida), creados por la empresa japonesa Denso-Wave en 1994 y que 
+		se han popularizado en el ámbito del ocio, gracias a las nuevas aplicaciones para móviles con las que desentrañar su significado.
+	</para>
+	<informalfigure xreflabel="Fig 49">
+		<mediaobject>
+			<imageobject fileref="resource/INF-6-055.jpg"/>
+		</mediaobject>
+	</informalfigure>
+	<informalfigure xreflabel="Fig 50">
+		<mediaobject>
+			<imageobject fileref="resource/INF-6-056.jpg"/>
+		</mediaobject>
+	</informalfigure>
+	<informalfigure xreflabel="Fig 51">
+		<mediaobject>
+			<imageobject fileref="resource/INF-6-057.jpg"/>
+		</mediaobject>
+	</informalfigure>
+	<informalfigure xreflabel="Fig 52">
+		<mediaobject>
+			<imageobject fileref="resource/INF-6-058.jpg"/>
+		</mediaobject>
+		<caption><para>Distintos tipos de códigos bidimensionales con la URL de APEI.</para></caption>
+	</informalfigure>
+	<para>
+		Al igual que los códigos de barras, los códigos QR sirven para codificar información (textos, URL, ubicaciones geográficas, números de teléfono, vCards...). 
+		Para descifrarla basta con un dispositivo móvil con cámara con la que capturar la imagen del código y una aplicación capaz de interpretar su contenido y 
+		mostrarlo. En caso de que el código contenga una URL o un número de teléfono, la aplicación incluso puede llevarnos a la página web en cuestión o realizar 
+		una llamada a ese número. Así, los códigos QR son especialmente útiles a la hora de cifrar URL, ya que evitan al usuario teclearlas y permiten el acceso 
+		directo.
+	</para>
+	<para>
+		La ventaja de estos códigos es que se generan de forma sencilla. Existen servicios web para ello que funcionan introduciendo los datos que queremos que 
+		contenga el código y pulsando el botón. El resultado es una imagen que se puede descargar, copiar o enlazar, haciendo posible su reutilización en un sitio 
+		web o impresa. Algunos de los servicios que generan códigos QR son Kaywa &lt;<link xl:href="http://qrcode.kaywa.com/"/>&gt;, Códigos QR 
+		&lt;<link xl:href="http://www.codigos-qr.com/generador-de-codigos-qr/"/>&gt;, Delivr &lt;<link xl:href="http://delivr.com/qr-code-generator"/>&gt; (con más 
+		opciones) o la extensión para el Firefox Mobile Barcode &lt;<link xl:href="https://addons.mozilla.org/en-US/firefox/addon/2780/"/>&gt;.
+	</para>
+	<para>
+		En el proceso de descodificación se necesita un teléfono móvil con cámara de fotos y una aplicación apropiada. Existen aplicaciones para diferentes tipos 
+		de móviles, pero no para todos. Se puede encontrar un listado de aplicaciones por dispositivo en la siguiente URL 
+		&lt;<link xl:href="http://analytics.percentmobile.com/device_qr_code_readers/"/>&gt;.
+	</para>
+	<para>
+		Las aplicaciones de los códigos bidimensionales son muchas<footnote><para>Más aplicaciones de los códigos bidimensionales se pueden encontrar en el sitio 
+		web Códigos QR &lt;<link xl:href="http://www.codigos-qr.com/noticias/"/>&gt;.</para></footnote>: desde la distribución de productos o envíos (se pueden 
+		encontrar códigos bidimensionales en el etiquetado de los envases de cualquier producto), en juegos, carteles de cine, en publicidad, billetes de avión o 
+		de tren, etc. La sencillez del mecanismo de uso y su creación y el efecto de curiosidad que provocan, así como su estética reconocible, les convierten en 
+		una potente utilidad de los dispositivos móviles.
+	</para>
+	<informalfigure xreflabel="Fig 53">
+		<mediaobject>
+			<imageobject fileref="resource/INF-6-059.jpg"/>
+		</mediaobject>
+	</informalfigure>
+	<informalfigure xreflabel="Fig 54">
+		<mediaobject>
+			<imageobject fileref="resource/INF-6-060.jpg"/>
+		</mediaobject>
+		<caption><para>Utilidades prácticas de los códigos bidimensionales.</para></caption>
+	</informalfigure>
+	<para>
+		En el ámbito bibliotecario (Ashford, 2010), los códigos QR se emplean:
+	</para>
+	<itemizedlist>
+		<listitem>
+			<para>
+				En carteles y pósters, aportando el enlace a algún sitio web o información relacionada. Así, en la Biblioteca Rector Gabriel Ferraté se imprimen 
+				en pósters promocionales para dar los datos de acceso a su servicio Clic área (Clavero, Codina y Pérez, 2010) o conducir a alguna página web.
+			</para>
+		</listitem>
+		<listitem>
+			<para>
+				En el catálogo, junto a cada uno de los registros, señalando información relacionada con ese documento o la estantería en que se puede encontrar 
+				un libro. De esa forma, no es necesario memorizar información bibliográfica o escribirla. Este sistema emplea la universidad inglesa de Bath
+				&lt;<link xl:href="http://www.bath.ac.uk/library/services/qrcode.html"/>&gt;.
+			</para>
+		</listitem>
+		<listitem>
+			<para>
+				En el sitio web, para acceder a la versión para móviles de la biblioteca o del catálogo.
+			</para>
+		</listitem>
+		<listitem>
+			<para>
+				En los espacios de la biblioteca: en cada planta, informando de lo que se puede encontrar en ella, o en diferentes secciones, con contenidos 
+				relacionados (vídeos de formación de usuarios, música o audio-guías o textos explicativos).
+			</para>
+		</listitem>
+		<listitem>
+			<para>
+				Para incluir mensajes secretos, como acostumbra a hacer Fernando Juárez en sus entradas en el blog Biblioblog 
+				&lt;<link xl:href="http://diarium.usal.es/biblioblog/"/>&gt;.
+			</para>
+		</listitem>
+	</itemizedlist>
+	<informalfigure xreflabel="Fig 55">
+		<mediaobject>
+			<imageobject fileref="resource/INF-6-061.jpg"/>
+		</mediaobject>
+		<caption><para>Códigos bidimensionales en el catálogo de la Universidad de Bath.</para></caption>
+	</informalfigure>
+	<para>
+		También puede servir para señalar cada uno de los documentos de una colección, o al menos algunos, con contenidos añadidos, para crear dinámicas de juegos 
+		(búsqueda del tesoro, por ejemplo), en tarjetas de visita, para indicar los datos personales de un profesional, la URL de su sitio web o su perfil en 
+		alguna red social, etc.
+	</para>
+	<para>
+		Un tipo de códigos que todo libro, disco o película incluye es el código de barras. Existen aplicaciones para móviles capaces de leer el código de barras 
+		de un libro y relacionar la información que contiene con otros datos. Se trata de la misma función realizada por los escáneres de códigos de barras, pero 
+		enriquecida con nuevas opciones y extendida a cualquiera, usuarios incluidos, con un dispositivo móvil y la aplicación adecuada. De esta manera, las 
+		aplicaciones para el trabajo interno son inmensas. Así, la aplicación RedLaser &lt;<link xl:href="http://redlaser.com/"/>&gt; lee el código de barras 
+		de un libro y muestra los precios de compra en diferentes puntos de venta en línea (Amazon, eBay...) y las bibliotecas en las que se encuentra (aunque 
+		esta última opción sólo está disponible en Estados Unidos). Y LibraryThing Scanner 
+		&lt;<link xl:href="http://www.androidzoom.com/android_applications/tools/librarythingscanner_jsgc.html"/>&gt; para Android interpreta el código de barras 
+		de un libro con el fin de añadirlo a tu catálogo en LibraryThing. Con el reconocimiento de la imagen de portada, Goggles 
+		&lt;<link xl:href="http://www.google.com/mobile/goggles/"/>&gt; devuelve los resultados sobre él en el buscador.
+	</para>
+	<informalfigure xreflabel="Fig 65">
+		<mediaobject>
+			<imageobject fileref="resource/INF-6-062.jpg"/>
+		</mediaobject>
+		<caption><para>Red Laser</para></caption>
+	</informalfigure>
+</chapter>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<chapter xml:id="ch01"
+	lang="es" version="5.0" 
+	xmlns="http://docbook.org/ns/docbook" 
+	xmlns:xi="http://www.w3.org/2001/XInclude"
+	xmlns:xl="http://www.w3.org/1999/xlink">
+	<title>En un contexto de movilidad</title>
+	<para>
+		Inmersos en la actual situación de crisis económica y el replanteamiento de modelo que está suponiendo el libro electrónico quizás nos pase desapercibido 
+		algo que está cambiando los hábitos de comunicación y de consumo de información en los últimos años: cada vez son más quienes utilizan dispositivos 
+		móviles para acceder a la web. Sin embargo, se trata de un cambio tan importante para nuestra profesión como los antes citados y que afecta a nuestros 
+		hábitos diarios, haciendo la información más inmediata y accesible. Ya nadie duda de la validez de la web como fuente de información –aunque aún el debate 
+		sobre la fiabilidad de los contenidos y la privacidad de la información se mantiene vivo– como espacio para la comunicación e incluso para la socialización. 
+		Tampoco se cuestiona el importante papel que los servicios de información juegan en este escenario como proveedores y gestores de contenidos. A todo ello se 
+		suma la consideración de la lectura como una función más de los dispositivos electrónicos, convirtiendo a móviles, ordenadores y videoconsolas en lectores 
+		de libros, aptos también para reproducir contenidos multimedia.
+	</para>
+	<para>
+		Todos recordamos que hubo un tiempo en que sólo unos pocos tenían teléfono móvil y las comunicaciones de voz se realizaban habitualmente a través de 
+		teléfonos fijos, dependiendo así del lugar en que nos encontrábamos para poder comunicarnos. La telefonía móvil, actualmente con una tasa de penetración
+		en nuestro país del 110,2%<footnote><para>Según datos de la Comisión del Mercado de las Telecomunicaciones &lt;<link xl:href="http://www.cmt.es/"/>&gt; 
+		sobre el cuarto trimestre de 2010.</para></footnote>, ha hecho que el factor localización desaparezca –a excepción de los casos en que la cobertura o 
+		la batería no llegan–, pudiendo establecer contacto desde cualquier lugar y en cualquier momento. El mismo cambio supone la web móvil para la información, 
+		disponible desde cualquier lugar, y que implica además un incremento en el número de canales de comunicación.
+	</para>
+	<para>
+		Imaginemos por un momento que transportamos en nuestro bolsillo la llave para acceder a cualquier tipo de información (el cloud computing ha sustituido en 
+		nuestro orden de prioridades la posesión por la disponibilidad) y que la podemos utilizar en cualquier momento. Se trata de un gran salto cualitativo que 
+		nos hace la vida diaria más fácil en cuestiones tan triviales como localizar la parada de metro más cercana a nuestro alrededor, realizar el pedido de la 
+		compra mientras viajamos en el transporte público, leer las noticias en la cola del médico o gestionar el correo electrónico. De eso trata la web móvil 
+		precisamente, de inmediatez y acceso, de comunicación y de estar disponibles, de movilidad. Y es que el estilo de vida de las sociedades actuales se 
+		caracteriza, en gran medida, por la movilidad.
+	</para>
+	<para>
+		Los dispositivos móviles se están tornando en una suerte de navajas suizas<footnote><para>Así lo ilustraba Isabel Fernández en la Comunidad de prácticas 
+		sobre Utilidades de la web móvil para profesionales de la información &lt;<link xl:href="http://comunidad20.sedic.es/?p=290"/>&gt;.</para></footnote> 
+		modernas, pues sirven para todo: llamadas telefónicas y envío de mensajes, capacidad para determinar la posición y orientación, captura y reproducción 
+		de imagen, vídeo y sonido, lectura de documentos, etc. Si combinamos unos con otros obtendremos resultados interesantes, como los códigos bidimensionales 
+		o la realidad aumentada. El reto está en saber sacarles partido y adaptarlas a nuestras necesidades. De todo ello se hablará en este Informe APEI, el 
+		sexto de la colección, de la web y los dispositivos móviles, así como de otros aspectos directamente relacionados con ellos (conectividad, sistemas 
+		operativos y navegadores, estándares y tipos de terminales), imprescindibles para entender mejor el escenario de la web móvil. Pero también sobre cómo 
+		crear sitios web para móviles y utilidades como aplicaciones, códigos bidimensionales, geoposicionamiento y realidad aumentada. Y, finalmente, del 
+		aprovechamiento de todo ello en nuestras bibliotecas, pensando en opciones reales, que se pueden poner en marcha hoy mismo, y asequibles para todos los 
+		públicos. Para seguirlo no es necesario tener al lado un dispositivo móvil de última generación, sino sólo un poquito de curiosidad.
+	</para>
+	<informalfigure xreflabel="Fig 1">
+		<mediaobject>
+			<imageobject fileref="resource/INF-6-004.jpg"/>
+		</mediaobject>
+		<caption><para>Los dispositivos móviles se emplean en cualquier momento y situación.</para></caption>
+	</informalfigure>
+</chapter>

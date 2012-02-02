@@ -1,0 +1,968 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<bibliography xml:id="bib"
+	lang="es" version="5.0" 
+	xmlns="http://docbook.org/ns/docbook" 
+	xmlns:xi="http://www.w3.org/2001/XInclude"
+	xmlns:xl="http://www.w3.org/1999/xlink">
+  	<title>Bibliografía</title>
+	<biblioentry>
+		<authorgroup>
+			<author>
+				<personname>
+					<surname>ABARCA VILLOLDO</surname> <firstname>Marta</firstname>
+				</personname>
+			</author> 
+			<author>
+				<personname>
+					<surname>RUBIO MONTERO</surname> <firstname>Francisco</firstname>
+				</personname>
+			</author>
+			<author>
+				<personname>
+					<surname>PONS CHAIGNEAU</surname> <firstname>David</firstname>
+				</personname>
+			</author>
+			<author>
+				<personname>
+					<surname>VALLÉS NAVARRO</surname> <firstname>Raquel</firstname>
+				</personname>
+			</author>
+		</authorgroup>
+		<title>
+			La web móvil en las bibliotecas universitarias
+		</title>
+		<subtitle>
+			movilízate desde 0 euros
+		</subtitle>
+		<citetitle>
+			En: X Workshop Rebiun sobre proyectos digitales, Valencia, 7 y 8 octubre, 2010
+		</citetitle>
+		<bibliosource class="uri">
+			Disponible en: &lt;<link xl:href="http://riunet.upv.es/manakin/handle/10251/8655"/>&gt;
+		</bibliosource>
+	</biblioentry>
+	<biblioentry>
+		<author>
+			<personname>
+				<surname>AGAR</surname> <firstname>Jon</firstname>
+			</personname>
+		</author>
+		<title>
+			Constant Touch
+		</title>
+		<subtitle>
+			A Global History of the Mobile Phone
+		</subtitle>
+		<publisher>
+			<address>
+				<city>
+					Thriplow
+				</city>
+			</address>
+			<publishername>
+				Icon Books
+			</publishername>
+			<pubdate>
+				2005
+			</pubdate>
+		</publisher>
+	</biblioentry> 
+	<biblioentry>
+		<author>
+			<personame>
+				<surname>ALLY</surname><firstname>Mohamed</firstname>
+			</personame>
+		</author>
+		<editor>
+			<personname>
+				<surname>NEEDHAM</surname><firstname>Gill (ed.)</firstname>
+				<othername>(ed.)</othername>
+			</personname>
+		</editor>
+		<title>
+			M-Libraries 2
+		</title>
+		<subtitle>
+			A virtual library in everyone’s pocket
+		</subtitle>
+		<publisher>
+			<publishername>
+				Facet Publishing
+			</publishername>
+		</publisher>
+		<pubdate>
+			2010
+		</pubdate>
+		<biblioid class="isbn">
+			ISBN: 978-1856046961
+		</biblioid>
+	</biblioentry> 
+	<biblioentry>
+		<author>
+			<personname>
+				<surname>ARROYO VÁZQUEZ</surname> <firstname>Natalia</firstname>
+			</personname>
+		</author>
+		<title>
+			Accesibilidad de los contenidos en Internet de las bibliotecas públicas desde dispositivos móviles
+		</title>
+		<citetitle>
+			Anuario ThinkEPI 2009. Análisis de tendencias en información y documentación. Barcelona: EPI SCP, 2009, pp. 153-156
+		</citetitle> 
+		<bibliosource class="uri">
+			Disponible en: 
+			&lt;<link xl:href="http://www.thinkepi.net/accesibilidad-de-los-contenidos-en-internetde-las-bibliotecas-publicas-desde-dispositivos-moviles"/>&gt;
+		</bibliosource>
+	</biblioentry>
+	<biblioentry>
+		<author>
+			<personname>
+				<surname>ARROYO VÁZQUEZ</surname> <firstname>Natalia</firstname>
+			</personname>
+		</author>
+		<title>
+			Adaptando contenidos para la web móvil
+		</title>
+		<subtitle>
+			pautas y herramientas para bibliotecas públicas
+		</subtitle>
+		<citetitle>
+			En: V Congreso Nacional de Bibliotecas Públicas, Gijón, 3 al 5 noviembre, 2010
+		</citetitle>
+		<bibliosource class="uri">
+			Disponible en: &lt;<link xl:href="http://hdl.handle.net/10421/4903"/>&gt;
+		</bibliosource>
+	</biblioentry>
+	<biblioentry>
+		<author>
+			<personname>
+				<surname>ASHFORD</surname> <firstname>Robin</firstname>
+			</personname>
+		</author>
+		<title>
+			QR codes and academic libraries
+		</title>
+		<subtitle>
+			Reaching mobile users
+		</subtitle>
+		<citetitle>
+			College &amp; Research Libraries News, vol. 71, núm. 10, 2010, pp. 526-530
+		</citetitle>
+		<bibliosource class="uri">
+			Disponible en: &lt;<link xl:href="http://crln.acrl.org/content/71/10/526.full"/>&gt;
+		</bibliosource>
+	</biblioentry>
+	<biblioentry>
+		<author>
+			<personname>
+				<surname>BALLARD</surname> <firstname>Barbara</firstname>
+			</personname>
+		</author>
+		<title>
+			Designing the Mobile User Experience
+		</title>
+		<publisher>
+			<publishername>
+				Wiley
+			</publishername>
+		</publisher>
+		<pubdate>
+			2007
+		</pubdate>
+		<biblioid class="isbn">
+			ISBN 978-0-470-03361-6
+		</biblioid>
+	</biblioentry> 
+	<biblioentry>
+		<authorgroup>
+			<author>
+				<personname>
+					<surname>BIMBER</surname> <firstname>Oliver</firstname>
+				</personname>
+			</author>
+			<author>
+				<personname>
+					<surname>RASKAR</surname> <firstname>Ramesh</firstname>
+				</personname>
+			</author>
+		</authorgroup>
+		<title>
+			Spatial Augmented Reality
+		</title>
+		<subtitle>
+			Merging Real and Virtual Worlds
+		</subtitle>
+		<publisher>
+			<address>
+				<city>
+					Wellesley
+				</city>
+			</address> 
+			<publishername>
+				A. K. Peters
+			</publishername>
+		</publisher>
+		<pubdate>2005</pubdate>
+	</biblioentry> 
+	<biblioentry>
+		<authorgroup>
+			<author>
+				<personname>
+					<surname>BRIDGES</surname> <firstname>Laurie M.</firstname>
+				</personname>
+			</author>
+			<author>
+				<personname>
+					<surname>REMPEL</surname>, <firstname>Hannah Gascho</firstname>
+				</personname>
+			</author>
+			<author>
+				<personname>
+					<surname>GRIGGS</surname> <firstname>Kim</firstname>
+				</personname>
+			</author>
+		</authorgroup>
+		<title>
+			Making the Case for a Fully Mobile Library Website
+		</title>
+		<subtitle>
+			From Floor Maps to the Catalog
+		</subtitle>
+		<citetitle>
+			Reference Services Review, vol. 38, núm. 2, 2010
+		</citetitle>
+	</biblioentry> 
+	<biblioentry>
+		<authorgroup>
+			<author>
+				<personname>
+					<surname>CLAVERO</surname> <firstname>Javier</firstname>
+				</personname>
+			</author>
+			<author>
+				<personname>
+					<surname>CODINA</surname> <firstname>Miquel</firstname>
+				</personname>
+			</author>
+			<author>
+				<personname>
+					<surname>PÉREZ</surname> <firstname>Andrés</firstname>
+				</personname>
+			</author>
+		</authorgroup>
+		<title>
+			La tecnología es protagonista
+		</title>
+		<subtitle>
+			aplicaciones y servicios de la Biblioteca Rector Gabriel Ferraté
+		</subtitle>
+		<citetitle pubwork="journal">
+			El Profesional de la Información, vol. 19, núm. 1, enero-febrero 2010, pp. 63-69
+		</citetitle>
+	</biblioentry> 
+	<biblioentry>
+		<authorgroup>
+			<author>
+				<personname>
+					<surname>CUMMINGS</surname> <firstname>Joel</firstname>
+				</personname>
+			</author>
+			<author>
+				<personname>
+					<surname>MERRILL</surname> <firstname>Alex</firstname>
+				</personname>
+			</author>
+			<author>
+				<personname>
+					<surname>BORRELLI</surname> <firstname>Steve</firstname>
+				</personname>
+			</author>
+		</authorgroup>
+		<title>
+			The Use of Handheld Mobile Devices
+		</title>
+		<subtitle>
+			Their Impact and Implications for Library Services
+		</subtitle>
+		<citetitle>
+			Library Hi Tech, vol. 28, núm. 1, 2010, pp. 22-40
+		</citetitle>
+		<bibliosource class="uri">
+			Disponible en: &lt;<link xl:href="http://www.emeraldinsight.com/journals.htm?articleid=1846222"/>&gt;
+		</bibliosource>
+	</biblioentry> 
+	<biblioentry>
+		<author>
+			<personname>
+				FIRTMAN, Maximiliano
+			</personname>
+		</author>
+		<title>
+			Programming the Mobile web
+		</title>
+		<publisher>
+			<address>
+				<city>
+					Sebastopol
+				</city>
+			</address>
+			<publishername>
+				O’Reilly Media
+			</publishername>
+		</publisher>
+		<pubdate>2010</pubdate>
+		<biblioid class="isbn">
+			ISBN 978-0596807788
+		</biblioid>
+	</biblioentry> 
+	<biblioentry>
+		<author>
+			<personname>
+				<surname>FOX</surname> <firstname>Megan K.</firstname>
+			</personname>
+		</author>
+		<title>
+			PDAs and Handhelds in Libraries
+		</title>
+		<subtitle>
+			I’ve got the Whole World in My Palm
+		</subtitle>
+		<citetitle>
+			ACRL/NEC, 15 enero, 2002
+		</citetitle>
+		<bibliosource class="uri">
+			Disponible en: &lt;<link xl:href="http://web.simmons.edu/~fox/pda/PDA.ppt"/>&gt;
+		</bibliosource>
+	</biblioentry> 
+	<biblioentry>
+		<author>
+			<personname>
+				<surname>FOX</surname> <firstname>Megan K.</firstname>
+			</personname>
+		</author>
+		<title>
+			PDAs, Handhelds and Mobile Technologies in Libraries
+		</title>
+		<subtitle>
+			How the academic library is using handheld mobile technologies
+		</subtitle>
+		<pubdate>
+			2007
+		</pubdate>
+		<bibliosource class="uri">
+			Disponible en: &lt;<link xl:href="http://web.simmons.edu/~fox/pda/"/>&gt;
+		</bibliosource>
+	</biblioentry> 
+	<biblioentry>
+		<author>
+			<personname>
+				<surname>GALINDO</surname> <firstname>Luis Ángel</firstname>
+			</personname>
+		</author>
+		<title>
+			Mobile 2.0
+		</title>
+		<subtitle>
+			una oportunidad para las Telco
+		</subtitle>
+		<citetitle pubwork="journal">
+			Revista TELOS, 3 mayo, 2010
+		</citetitle>
+		<bibliosource class="uri">
+			Disponible en: 
+			&lt;<link xl:href="http://sociedadinformacion.fundacion.telefonica.com/seccion=1266&amp;idioma=es_ES&amp;id=2010051312440001&amp;activo=6.do#"/>&gt;
+		</bibliosource>
+	</biblioentry> 
+	<biblioentry>
+		<author>
+			<personname>
+				<surname>GIFFREY</surname> <firstname>Jason</firstname>
+			</personname>
+		</author>
+		<title>
+			Mobile Technology and Libraries
+		</title>
+		<publisher>
+			<publishername>
+				Neal-Schuman
+			</publishername>
+		</publisher> 
+		<pubdate>
+			2010
+		</pubdate>
+	</biblioentry>
+	<biblioentry>
+		<authorgroup>
+			<author>
+				<personname>
+					<surname>GREENE</surname> <firstname>Courtney</firstname>
+				</personname>
+			</author>
+			<author>
+				<personname>
+					<surname>ROSER</surname> <firstname>Missy</firstname>
+				</personname>
+			</author>
+			<author>
+				<personname>
+					<surname>RUANE</surname> <firstname>Elizabeth</firstname>
+				</personname>
+			</author>
+		</authorgroup>
+		<title>
+			The Anywhere Library
+		</title>
+		<subtitle>
+			A primer for the Mobile web
+		</subtitle>
+		<publisher>
+			<publishername>
+				ACRL
+			</publishername>
+		</publisher>
+		<pubdate>
+			2010
+		</pubdate>
+	</biblioentry> 
+	<biblioentry>
+		<authorgroup>
+			<author>
+				<personname>
+					<surname>GRIGGS</surname> <firstname>Kim</firstname>
+				</personname>
+			</author>
+			<author>
+				<personname>
+					<surname>BRIDGES</surname> <firstname>Laurie M.</firstname>
+				</personname>
+			</author>
+			<author>
+				<personname>
+					<surname>REMPEL</surname> <firstname>Hannah Gascho</firstname>
+				</personname>
+			</author>
+		</authorgroup>
+		<title>
+			Tips on Designing and Developing Mobile WebSites
+		</title>
+		<citetitle pubwork="journal">
+			The Code4Lib Journal, vol. 8, noviembre, 2009
+		</citetitle>
+		<bibliosource class="uri">
+			Disponible en: &lt;<link xl:href="http://journal.code4lib.org/articles/2055"/>&gt;
+		</bibliosource>
+	</biblioentry> 
+	<biblioentry>
+		<author>
+			<personname>
+				<surname>HELSINGOR</surname> <firstname>Fleur</firstname>
+			</personname>
+		</author>
+		<title>
+			Mobile Friendly Library Websites
+		</title>
+		<pubdate>
+			Junio, 2009
+		</pubdate>
+		<bibliosource class="uri">
+			Disponible en &lt;<link xl:href="http://www.lib.berkeley.edu/digicoll/libraryweb/mobile-websites.pdf"/>&gt;
+		</bibliosource>
+	</biblioentry> 
+	<biblioentry>
+		<authorgroup>
+			<author>
+				<personname>
+					<surname>JAOKAR</surname> <firstname>Ajit</firstname>
+				</personname>
+			</author>
+			<author>
+				<personname>
+					<surname>FISH</surname> <firstname>Tony</firstname>
+				</personname>
+			</author>
+		</authorgroup>
+		<title>
+			Mobile web 2.0
+		</title>
+		<subtitle>
+			the innovator’s guide to developing and marketing next generation wireless/mobile applications
+		</subtitle>
+		<publisher>
+			<address>
+				<city>
+					London
+				</city>
+			</address>
+			<publishername>
+				Futuretext
+			</publishername>
+		</publisher>
+		<pubdate>
+			2006
+		</pubdate>
+		<biblioid class="isbn">
+			ISBN 0954432762
+		</biblioid>
+	</biblioentry> 
+	<biblioentry>
+		<author>
+			<personname>
+				<surname>JENSEN</surname> <firstname>R. Bruce</firstname>
+			</personname>
+		</author>
+		<title>
+			Optimizing library content for mobile phones
+		</title>
+		<citetitle>
+			Library Hi Tech News, vol. 27, núm. 2, 2010, pp. 6-9
+		</citetitle>
+	</biblioentry>
+	<biblioentry>
+		<author>
+			<personname>
+				<surname>KROSKI</surname> <firstname>Ellyssa</firstname>
+			</personname>
+		</author>
+		<title>
+			On the Move with the Mobile Web
+		</title>
+		<subtitle>
+			Libraries and Mobile Technologies
+		</subtitle>
+		<citetitle>
+			Library Technology Reports, vol. 44, núm. 5, julio, 2008
+		</citetitle>
+	</biblioentry>
+	<biblioentry>
+		<author>
+			<personname>
+				<surname>LARA NAVARRA</surname> <firstname>Pablo</firstname>
+			</personname>
+		</author>
+		<title>
+			Movilidad de información
+		</title>
+		<subtitle>
+			de la biblioteca al salón de casa
+		</subtitle>
+		<citetitle pubwork="journal">
+			En: Anuario ThinkEPI, 2009. Análisis de tendencias en información y documentación. Barcelona: EPI SCP, 2009, pp. 167-169
+		</citetitle>
+		<bibliosource class="uri">
+			Disponible en: &lt;<link xl:href="http://www.thinkepi.net/movilidad-de-informacion-de-la-biblioteca-al-salon-de-casa"/>&gt;
+		</bibliosource>
+	</biblioentry>
+	<biblioentry>
+		<author>
+			<personname>
+				<surname>LIPPINCOTT</surname> <firstname>J.K.</firstname>
+			</personname>
+		</author>
+		<title>
+			Mobile technologies, mobile users
+		</title>
+		<subtitle>
+			implications for academic libraries
+		</subtitle>
+		<citetitle>
+			ARL, vol. 261, 8 diciembre 2008
+		</citetitle>
+		<bibliosource class="uri">
+			Disponible en: &lt;<link xl:href="http://www.arl.org/bm~doc/arl-br-261-mobile.pdf"/>&gt;
+		</bibliosource>
+	</biblioentry>
+	<biblioentry>
+		<author>
+			<personname>
+				<surname>MARGAIX Arnal</surname> <firstname>Dídac</firstname>
+			</personname>
+		</author>
+		<title>
+			Informe APEI sobre web social
+		</title>
+		<publisher>
+			<address>
+				<city>
+					Gijón
+				</city>
+			</address>
+			<publishername>
+				Asociación Profesional de Expertos en Información
+			</publishername>
+		</publisher>
+		<pubdate>2008</pubdate>
+		<bibliomisc>
+			<phrase>
+				Informe APEI 1
+			</phrase>
+		</bibliomisc>
+		<bibliosource class="uri">
+			Disponible en: &lt;<link xl:href="http://eprints.rclis.org/bitstream/10760/12506/1/informeapeiwebsocial.pdf"/>&gt;
+		</bibliosource>
+	</biblioentry>
+	<biblioentry>
+		<author>
+			<personname>
+				<surname>MILLS</surname> <firstname>Keren</firstname>
+			</personname>
+		</author>
+		<title>
+			M-Libraries
+		</title>
+		<subtitle>
+			information use on the move
+		</subtitle>
+		<bibliomisc>
+			<phrase>
+				A report from the Arcadia Programme
+			</phrase>
+		</bibliomisc>
+		<publisher>
+			<publishername>
+				University of Cambridge
+			</publishername>
+		</publisher>
+		<pubdate>2009</pubdate>
+		<bibliosource class="uri">
+			Disponible en: &lt;<link xl:href="http://arcadiaproject.lib.cam.ac.uk/docs/M-Libraries_report.pdf"/>&gt;
+		</bibliosource>
+	</biblioentry>
+	<biblioentry>
+		<author>
+			<personname>
+				<surname>MOLL</surname> <firstname>Cameron</firstname>
+			</personname>
+		</author>
+		<title>
+			Mobile Web Design
+		</title>
+		<subtitle>
+			A Web Standards Approach for Delivering Content Beyond the Desktop
+		</subtitle>
+		<publisher>
+			<publishername>
+				Cameron Moll
+			</publishername>
+		</publisher>
+		<pubdate>2008</pubdate>
+		<biblioid class="isbn">
+			ISBN 978-0615185910
+		</biblioid>
+	</biblioentry>
+	<biblioentry>
+		<author>
+			<personname>
+				<surname>NEGISHI</surname><firstname>Masamitsu</firstname>
+			</personname>
+		</author>
+		<title>
+			Mobile access to libraries: librarians and user experience for “i-mode” applications in libraries
+		</title>
+		<citetitle>
+			En: Libraries for life: democracy, diversity, delivery. IFLA Council and General Conference, Glasgow, 18 al 24 agosto, 2002
+		</citetitle>
+	</biblioentry>
+	<biblioentry>
+		<authorgroup>
+			<editor>
+				<personname>
+					<surname>NKEZE</surname> <firstname>Eman</firstname>
+				</personname>
+			</editor>
+			<editor>
+				<personname>
+					<surname>PEARCE</surname> <firstname>James</firstname>
+				</personname>
+			</editor>
+			<editor>
+				<personname>
+					<surname>WOMER</surname> <firstname>Matt</firstname>
+					(ed.)
+				</personname>
+			</editor>
+		</authorgroup>
+		<title>
+			Device Description Landscape 1.0.
+		</title>
+		<bibliomisc>
+			<phrase>
+				W3C Working Group Note, 31 octubre, 2007
+			</phrase>
+		</bibliomisc>
+		<bibliosource class="uri">
+			Disponible en: &lt;<link xl:href="http://www.w3.org/TR/dd-landscape/"/>&gt;
+		</bibliosource>
+	</biblioentry>
+	<biblioentry>
+		<author>
+			<personname>
+				<surname>O’REILLY</surname> <firstname>Tim</firstname>
+			</personname>
+		</author>
+		<title>
+			What Is Web 2.0
+		</title>
+		<subtitle>
+			Design Patterns and Business Models for the Next Generation of Software
+		</subtitle>
+		<publisher>
+			<publishername>
+				O’Reilly
+			</publishername>
+		</publisher>
+		<pubdate>
+			2005
+		</pubdate>
+		<bibliosource class="uri">
+			Disponible en: &lt;<link xl:href="http://oreilly.com/web2/archive/what-is-web-20.html"/>&gt;
+		</bibliosource>
+	</biblioentry>
+	<biblioentry>
+		<author>
+			<personname>
+				<surname>PASSANI</surname> <firstname>Luca</firstname>
+			</personname>
+		</author>
+		<title>
+			Global Authoring Practices for the Mobile Web
+		</title>
+		<pubdate>
+			Abril, 2010
+		</pubdate>
+		<bibliosource class="uri">
+			Disponible en: &lt;<link xl:href="http://www.passani.it/gap/"/>&gt;
+		</bibliosource>
+	</biblioentry>
+	<biblioentry>
+		<authorgroup>
+			<author>
+				<personname>
+					<surname>PÉREZ</surname> <firstname>D.</firstname>
+				</personname>
+			</author>
+			<author>
+				<personname>
+					<surname>TORN</surname> <firstname>P.</firstname>
+				</personname>
+			</author>
+		</authorgroup>
+		<title>
+			M-Library in an m-University
+		</title>
+		<subtitle>
+			Changing Models in the Open University of Catalonia
+		</subtitle>
+		<citetitle>
+			En: Second International m-Libraries Conference, Vancouver, junio, 2009
+		</citetitle>
+		<bibliosource class="uri">
+			Disponible en: &lt;<link xl:href="http://ocs.sfu.ca/m-libraries/index.php/mlib/mlib2009/paper/download/13/11"/>&gt;
+		</bibliosource>
+	</biblioentry>
+	<biblioentry>
+		<author>
+			<personname>
+				<surname>PÉREZ YUSTE</surname> <firstname>Antonio</firstname>
+			</personname>
+		</author>
+		<title>
+			El proceso de implantación de la telefonía móvil en España
+		</title>
+		<citetitle>
+			Revista Antena del COITT, 2002
+		</citetitle>
+		<bibliosource class="uri">
+			Disponible en: &lt;<link xl:href="http://catedra-coitt.euitt.upm.es/web_socioeconomica/articulos/procesoimplantaciontelefoniamovil.pdf"/>&gt;
+		</bibliosource>
+	</biblioentry>
+	<biblioentry>
+		<author>
+			<personname>
+				<surname>PESQUERO MURILLO</surname> <firstname>Julio</firstname>
+			</personname>
+		</author>
+		<title>
+			La biblioteca en el teléfono móvil
+		</title>
+		<citetitle>
+			En: V Congreso Nacional de Bibliotecas Públicas, A Coruña, 24 al 26 de septiembre, 2008
+		</citetitle>
+		<bibliosource class="uri">
+			Disponible en: &lt;<link xl:href="http://hdl.handle.net/10421/555"/>&gt;
+		</bibliosource>
+	</biblioentry>
+	<biblioentry>
+		<author>
+			<personname>
+				<surname>PRESSLEY</surname> <firstname>Lauren</firstname>
+			</personname>
+		</author>
+		<title>
+			Lauren’s top tech trends
+		</title>
+		<citetitle pubwork="webpage">
+			Lauren’s library blog, 19 enero 2010
+		</citetitle>
+		<bibliosource class="uri">
+			Disponible en: &lt;<link xl:href="http://laurenpressley.com/library/2010/01/laurens-top-tech-trend-alamw10-alamwttt/"/>&gt;
+		</bibliosource>
+	</biblioentry>
+	<biblioentry>
+		<authorgroup>
+			<editor>
+				<personname>
+					<surname>RABIN</surname> <firstname>Jo</firstname>
+				</personname>
+			</editor>
+			<editor>
+				<personname>
+					<surname>McCATHIENEVILE</surname> <firstname>Charles</firstname>
+				</personname>
+			</editor>
+		</authorgroup>
+		<title>
+			Mobile Web Best Practices 1.0. Basic Guidelines
+		</title> 
+		<bibliomisc>
+			<phrase>
+				W3C Recommendation
+			</phrase>
+		</bibliomisc>
+		<publisher>
+			<publishername>
+				W3C
+			</publishername>
+		</publisher>
+		<pubdate>
+			29 julio, 2008
+		</pubdate>
+		<bibliosource class="uri">
+			Disponible en &lt;<link xl:href="http://www.w3.org/TR/mobile-bp/"/>&gt;
+		</bibliosource>
+	</biblioentry>
+	<biblioentry>
+		<author>
+			<personname>
+				<surname>SERRANO</surname> <firstname>Jordi</firstname>
+			</personname>
+		</author>
+		<title>
+			Acceso a la Biblioteca de la UOC por medio de la telefonía móvil
+		</title>
+		<citetitle>
+			En: I Jornadas de Bibliotecas Digitales, Valladolid, 6-7 noviembre, 2000
+		</citetitle>
+		<bibliosource class="uri">
+			Disponible en: &lt;<link xl:href="http://biblioteca.uoc.edu/cgi-bin/pass/byteserver.pl/docs_elec/ponencies/3538.pdf"/>&gt;
+		</bibliosource>
+	</biblioentry>
+	<biblioentry>
+		<authorgroup>
+			<author>
+				<personname>
+					<surname>SIERRA</surname> <firstname>Tito</firstname>
+				</personname>
+			</author>
+			<author>
+				<personname>
+					<surname>RYAN</surname> <firstname>Joseph</firstname>
+				</personname>
+			</author>
+			<author>
+				<personname>
+					<surname>WUST</surname> <firstname>Markus</firstname>
+				</personname>
+			</author>
+		</authorgroup>
+		<title>
+			Beyond OPAC 2.0
+		</title>
+		<subtitle>
+			Library Catalog as Versatile Discovery Platform
+		</subtitle>
+		<citetitle pubwork="journal">
+			The Code4Lib Journal, núm. 1, 17 diciembre, 2007
+		</citetitle>
+		<bibliosource class="uri">
+			Disponible en: &lt;<link xl:href="http://journal.code4lib.org/articles/10"/>&gt;
+		</bibliosource>
+	</biblioentry>
+	<biblioentry>
+		<author>
+			<personname>
+				<surname>SUHONOS</surname> <firstname>M. J.</firstname>
+			</personname>
+		</author>
+		<title>
+			Building a Location-aware Mobile Search Application with Z39.50 and HTML5
+		</title>
+		<citetitle>
+			The Code4Lib Journal, núm. 10, 22 junio, 2010
+		</citetitle>
+		<bibliosource class="uri">
+			Disponible en: &lt;<link xl:href="http://journal.code4lib.org/articles/2947"/>&gt;
+		</bibliosource>
+	</biblioentry>
+	<biblioentry>
+		<author>
+			<personname>
+				<surname>TAY</surname> <firstname>Aaron</firstname>
+			</personname>
+		</author>
+		<title>
+			What are Mobile Friendly Library Sites Offering? A Survey
+		</title>
+		<citetitle>
+			Musings about librarianship, 24 abril, 2010
+		</citetitle>
+		<bibliosource class="uri">
+			Disponible en: &lt;<link xl:href="http://musingsaboutlibrarianship.blogspot.com/2010/04/comparison-of-40-mobile-librarysites.html"/>&gt;
+		</bibliosource>
+	</biblioentry>
+	<biblioentry>
+		<author>
+			<personname>
+				<surname>TOSETE HERRANZ</surname> <firstname>Francisco</firstname>
+			</personname>
+		</author>
+		<title>
+			Web móvil
+		</title>
+		<citetitle>
+			En: Baiget, Tomàs (ed.). Anuario ThinkEPI 2008. Análisis de tendencias en información y documentación. Barcelona: EPI SCP, 2008, pp.174-176
+		</citetitle>
+	</biblioentry>
+	<biblioentry>
+		<editor>
+			<personname>
+				<surname>TRZECIAK</surname> <firstname>Jeffrey</firstname> (ed.)
+			</personname>
+		</editor>
+		<title>
+			Personal Digital Assistants (PDAs)
+		</title>
+		<citetitle>
+			Library Hi Tech, vol. 21, núm. 4, 2003
+		</citetitle>
+	</biblioentry> 
+	<biblioentry>
+		<author>
+			<personname>
+				<surname>VOLLMER</surname> <firstname>Timothi</firstname>
+			</personname>
+		</author>
+		<title>
+			There is an App for That! Libraries and Mobile Technology
+		</title>
+		<subtitle>
+			an Introduction to Public Policy Considerations
+		</subtitle>
+		<citetitle>
+			ALA Policy Brief, núm. 3, junio, 2010
+		</citetitle>
+		<bibliosource class="uri">
+			Disponible en: &lt;<link xl:href="http://www.ala.org/ala/aboutala/offices/oitp/publications/policybriefs/mobiledevices.pdf"/>&gt;
+		</bibliosource>
+	</biblioentry>
+</bibliography>

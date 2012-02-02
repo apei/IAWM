@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<chapter xml:id="ch03"
+	lang="es" version="5.0" 
+	xmlns="http://docbook.org/ns/docbook" 
+	xmlns:xi="http://www.w3.org/2001/XInclude"
+	xmlns:xl="http://www.w3.org/1999/xlink">
+	<title>Un breve recorrido hasta nuestros días</title>
+	<para>
+		Los orígenes de la telefonía móvil se remontan nada menos que a 1910, cuando Lars Magnus Ericsson instaló en el coche de su esposa de un teléfono que 
+		funcionaba conectándose a los cables telefónicos de la ciudad en que se encontraba. En las décadas de los cuarenta a los sesenta se siguió trabajando en 
+		la incorporación de teléfonos en automóviles, y en los ochenta se comercializan los primeros dispositivos no ligados a un vehículo: se trataba de aparatos 
+		costosos, pesados y de tecnología analógica (primera generación). No es hasta los años noventa cuando la telefonía móvil se populariza con la llegada de 
+		la segunda generación (2G) y aparatos que van ganando en movilidad (Agar, 2005). Mientras tanto, en esa misma década se fabricaban las primeras PDA (la 
+		Apple Newton inauguró en 1992 la línea), aparatos pensados para la gestión de datos personales, con utilidades como agenda y calendario, y poco después 
+		se combinan con la telefonía.
+	</para>
+	<para>
+		En nuestro país el primer servicio de web móvil lo lanzó Telefónica en 1999, inaugurando así la era WAP, que prometía el acceso a Internet desde el móvil 
+		y un rápido desarrollo (Pérez, 2002). Sin embargo, el servicio WAP no obtuvo tal expansión, quizás porque aún Internet no había alcanzado una masa crítica 
+		de usuarios, quizás porque lo que se ofrecía en aquel momento no era suficiente, o porque la tecnología (dispositivos y velocidad de las redes de comunicaciones) 
+		aún no estaba lo suficientemente desarrollada como para que la experiencia de uso fuera atractiva. Una suerte diferente tuvo en Japón, su país de origen, 
+		el conjunto de servicios iMode lanzados por la empresa NTT Docomo el mismo año en que apareció WAP, y que consiguió en pocos años millones de usuarios.
+	</para>
+	<para>
+		Un punto importante de inflexión lo marcó el lanzamiento del iPhone de Apple en 2007: se trataba de un dispositivo de culto, que todo el mundo quería 
+		tener y que hacía fácil la interacción, demostrando que el acceso a la web desde los móviles podía ser intuitivo. Su aparición ha constituido una 
+		referencia para otras compañías, tanto por el diseño, prestaciones y características del terminal como por su software y el modelo de aplicaciones, y 
+		catapultado el segmento de los <emphasis>smartphones</emphasis>, teléfonos inteligentes que han pasado de estar reservados al ámbito de los negocios a 
+		encontrarse en el bolsillo de todos.
+	</para>
+	<para>
+		A estas alturas, todos los expertos coinciden en señalar la movilidad como una de las tendencias de la web para los próximos años, y una vez alcanzada 
+		una masa crítica de usuarios, se configura como una opción real.
+	</para>
+</chapter>

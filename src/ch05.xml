@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<chapter xml:id="ch05"
+	lang="es" version="5.0" 
+	xmlns="http://docbook.org/ns/docbook" 
+	xmlns:xi="http://www.w3.org/2001/XInclude"
+	xmlns:xl="http://www.w3.org/1999/xlink">
+	<title>Sistemas operativos y navegadores móviles</title>
+	<para>
+		A diferencia de lo que sucede en los ordenadores de sobremesa, donde Windows es el rey, en el mundo de los dispositivos móviles hay una gran competencia 
+		entre sistemas operativos. Competencia avivada en los últimos años con la popularidad creciente que están alcanzando los <emphasis>smartphones</emphasis>. 
+		Las grandes marcas fabricantes de dispositivos suelen tener su propio sistema operativo y sólo Android ha conseguido establecerse como una opción seria 
+		para romper esta tendencia al plantearse como una opción multiplataforma.
+	</para>
+	<section xml:id="ch05a">
+		<title>La familia Apple</title>
+		<subtitle>&lt;<link xl:href="http://www.apple.com/es/iphone/ios/" />&gt;</subtitle>
+		<para>
+			El sistema operativo de Apple apareció en junio de 2007, junto con el iPhone. Derivado de Mac OS X, sólo funciona sobre los aparatos de Apple, iPhone, 
+			iPod Touch y recientemente también iPad. A partir de 2008 incorpora la posibilidad para terceros de vender aplicaciones a través de su plataforma 
+			iTunes, lo que impulsa un modelo de negocio del que se hablará más adelante en este informe (<xref linkend="ch10" xreflabel="apartado 10"/>). Es 
+			entonces cuando comienza a recibir el nombre de iPhone OS. La versión más actual es iOS4, en el mercado desde junio de 2010 a la vez que el iPhone 4.
+		</para>
+		<para>
+			Para conocer el funcionamiento del sistema operativo y la navegación es necesario estar al tanto de las características de sus aparatos: con un solo 
+			botón, son todo pantalla (de 3,5 pulgadas en el caso del iPhone y del iPod Touch y de 9,7 en el del iPad), multitáctil y sin teclado, que es virtual, 
+			entre otras.
+		</para>
+		<para>
+			Las actualizaciones del sistema operativo y la introducción de datos se realizan a través del software de Apple, iTunes, bien conectando el aparato 
+			al ordenador o directamente a través de la web. La última versión incluye multitarea.
+		</para>
+		<para>
+			Entre sus limitaciones se encuentran la ausencia de soporte de Flash, el formato más empleado para vídeo en Internet<footnote><para>Jobs, Steve. Thoughts
+			on Flash. Apple, abril 2010. Disponible en: &lt;<link xl:href="http://www.apple.com/hotnews/thoughts-on-flash/"/>&gt;</para></footnote>, y las 
+			restricciones impuestas por un software propietario. Ambas han sido salvadas por los usuarios, que han encontrado maneras de evitarlas en gran medida. 
+			El diseño de su interfaz se ha convertido en todo un icono que han emulado otros sistemas operativos, incluso algunas páginas web para móviles. 
+			Safari es el navegador de Apple, incorporado por defecto con el sistema operativo.
+		</para>
+		<informalfigure xreflabel="Fig 4">
+			<mediaobject>
+				<imageobject fileref="resource/INF-6-010.jpg"/>
+			</mediaobject>
+			<caption><para>Sistema operativo iOS</para></caption>
+		</informalfigure>
+	</section>
+	<section xml:id="ch05b">
+		<title>Android</title>
+		<subtitle>&lt;<link xl:href="http://www.android.com"/>&gt;</subtitle>
+		<para>
+			El sistema operativo de Google y la Open Handset Alliance, basado en Linux, fue anunciado en noviembre de 2007. La primera versión, Android 1.0, se 
+			hizo efectiva en septiembre de 2008 con la comercialización de los primeros aparatos con Android. La última versión es la 3.0, también conocida como 
+			Honeycomb (que significa panal de abejas). En la actualidad son varios los fabricantes de móviles que tienen algún modelo con Android en su catálogo: 
+			HTC, Acer, Motorola, Samsung, Sony Ericsson... También lo incorporan algunas tabletas (Asus, Archos, Samsung Galaxy Tab, Toshiba Folio 100...) e 
+			incluso lectores de libros electrónicos como el modelo Alex de Papyre, con doble pantalla.
+		</para>
+		<para>
+			La naturaleza abierta de Android le hace idóneo para aparatos de bajo coste y el desarrollo de programas y le está situando entre los primeros 
+			sistemas operativos del mercado: según datos publicados en abril de 2011 por la empresa Gartner<footnote><para>Gartner Says Android to Command Nearly 
+			Half of Worldwide Smartphone Operating System Market by Year-End 2012. Disponible en: &lt;<link xl:href="http://www.gartner.com/it/page.jsp?id=1622614"/>&gt;.</para></footnote>, 
+			Android se perfila como el segundo sistema operativo en todo el mundo, con un 22,7% de cuota de mercado en 2010, sólo por detrás de Symbian (37,6%). 
+			Por detrás quedan Research in Motion (16%), iOS (15,7%) y Windows Phone (4,2%).
+		</para>
+		<para>
+			Discípulo directo de iOS en cuanto a funcionamiento y concepción, uno de sus puntos débiles es la actualización de nuevas versiones, para la que 
+			algunos modelos no prestan soporte. En ese sentido, la separación del vendedor le penaliza.
+		</para>
+		<informalfigure xreflabel="Fig 5">
+			<mediaobject>
+				<imageobject fileref="resource/INF-6-011.jpg"/>
+			</mediaobject>
+			<caption><para>Android</para></caption>
+		</informalfigure>
+	</section>
+	<section xml:id="ch05c">
+		<title>Blackberry</title>
+		<subtitle>&lt;<link xl:href="http://es.blackberry.com/services" />&gt;</subtitle>
+		<para>
+			La compañía canadiense RIM es una de las más veteranas en la fabricación de <emphasis>smartphones</emphasis> y PDA, estando presente en el mercado desde 
+			1999. Sus dispositivos han gozado siempre de muy buena acogida en el mundo de los negocios gracias a soluciones para enviar y recibir información de 
+			forma segura y estar permanentemente conectado, especialmente en lo que a correo electrónico se refiere, como el servicio de correo electrónico 
+			<emphasis>push</emphasis> (que permitía recibir instantáneamente alertas una vez entrado un e-mail) y soporte para el correo corporativo. Las 
+			“crackberry” (sobrenombre que recibieron por la adicción que creaban) ofrecían además otras facilidades para la entrada de datos y la navegación, 
+			como el teclado físico <emphasis>qwerty</emphasis> (que se abandona en nuevos modelos a favor de pantallas táctiles y teclados virtuales) o soluciones 
+			para la navegación y el <emphasis>scroll</emphasis>, que ha ido variando según dispositivos (<emphasis>trackwheel</emphasis>, <emphasis>trackball</emphasis>, 
+			trackpad o más recientemente la pantalla táctil). También incorpora soluciones organizativas como calendario o agenda. Funcionan bajo su propio sistema 
+			operativo propietario, RIM OS, compatible con Java ME, cuya última versión, la 6, data del verano de 2010.
+		</para>
+		<informalfigure xreflabel="Fig 6">
+			<mediaobject>
+				<imageobject fileref="resource/INF-6-012.jpg"/>
+			</mediaobject>
+			<caption><para>Blackberry</para></caption>
+		</informalfigure>
+	</section>
+	<section xml:id="ch05d">
+		<title>Symbian OS</title>
+		<subtitle>&lt;<link xl:href="http://www.symbian.org"/>&gt;</subtitle>
+		<para>
+			Symbian (antes S60) es el sistema operativo para mó- viles más extendido del mundo, con una cuota de mercado del 37,6% en 2010, según datos de 
+			Gartner<footnote><para>Gartner Says Android to Command Nearly Half of Worldwide Smartphone Operating System Market by Year-End 2012. Disponible 
+			en: &lt;<link xl:href="http://www.gartner.com/it/page.jsp?id=1622614"/>&gt;.</para></footnote>. Es descendiente de una larga saga de software 
+			que se remonta a finales de los ochenta con EPOC, un sistema operativo gráfico para dispositivos portátiles. Tras varios avatares, en 2008 Symbian 
+			se constituyó en fundación con el objetivo de crear una plataforma abierta de software, de manera que ningún fabricante de telefonía móvil se viera 
+			obligado a encarecer su producto por el pago de licencias. Ha sido empleado por la mayoría de los grandes fabricantes de móviles (Sony Ericsson, 
+			Nokia, Motorola, Samsung y NTT Docomo son sólo algunos de ellos) y muy popular en Europa y Japón, aunque en la actualidad se encuentra en claro 
+			descenso frente a sus competidores. La última versión es la Symbian^3.
+		</para>
+	</section>
+	<section xml:id="ch05e">
+		<title>Windows Mobile</title>
+		<subtitle>&lt;<link xl:href="http://www.microsoft.com/Windowsmobile"/>&gt;</subtitle>
+		<para>
+			Sus orígenes se remontan a 2000, con el lanzamiento del llamado Pocket PC 2000, un sistema operativo ideado para PDA y sucesor a su vez del 
+			Palm Size PC, el primer intento de Microsoft para PDA. En 2003 pasa a llamarse Windows Mobile. Éste vino materializado en cuatro ediciones: 
+			para <emphasis>smartphone</emphasis>, teléfono y en ediciones <emphasis>premium</emphasis> y <emphasis>professional</emphasis>. La última versión, 
+			la 7, sigue la misma estética del sistema operativo para escritorio. Si bien hace unos años era el preferido en el ámbito empresarial, al igual que 
+			Symbian, está perdiendo cuota de mercado frente a sus competidores.
+		</para>
+		<para>
+			Para este año se espera el lanzamiento de la versión 7.5, también conocida como Mango.
+		</para>
+		<informalfigure xreflabel="Fig 7">
+			<mediaobject>
+				<imageobject fileref="resource/INF-6-013.jpg"/>
+			</mediaobject>
+			<caption><para>Windows Mobile</para></caption>
+		</informalfigure>
+	</section>
+	<section xml:id="ch05f">
+		<title>Otros sistemas operativos</title>
+		<para>
+			Además de estos, existen muchos otros sistemas operativos, como Palm OS &lt;<link xl:href="http://www.palm.com/es/es/index.html"/>&gt;, utilizado por 
+			vez primera en el Palm Pre en 2009. Está diseñado para pantallas táctiles y sus aplicaciones están basadas en estándares web como HTML, CSS o 
+			JavaScript, por lo que ahorra a los desarrolladores el esfuerzo de aprender nuevos lenguajes.
+		</para>
+		<para>
+			Algunos sistemas operativos para móviles están basados en software libre, como Maemo &lt;<link xl:href="http://maemo.org/"/>&gt;, LiMo 
+			&lt;<link xl:href="http://www.limofoundation.org/es/"/>&gt; y MeeGo &lt;<link xl:href="http://meego.com/"/>&gt;. El primero de ellos, Maemo, es el 
+			sistema operativo de Nokia para <emphasis>smartphones</emphasis> y tabletas basado en la distribución Debian de Linux. LiMo (Linux Mobile) es una 
+			fundación formada por varias empresas y organizaciones que promueve desde 2007 el uso de sistemas operativos para móviles basados en Linux. MeeGo 
+			es un sistema operativo lanzado este año por Nokia e Intel y pensado para varios tipos de dispositivos móviles (netbooks, tabletas...).
+		</para>
+	</section>
+	<section xml:id="ch05g">
+		<title>Navegadores</title>
+		<para>
+			El navegador es la herramienta para conectarse a la web, también desde dispositivos móviles. Optimizado para pantallas pequeñas, se le denomina 
+			<emphasis>microbrowser</emphasis> o navegador móvil. El primer navegador móvil para PDA fue NetHopper, para Apple Newton, lanzado en agosto de 1996. 
+			Actualmente casi todos los navegadores se basan en WebKit, un marco para aplicaciones que funciona como base para el navegador, y no se parecen a 
+			los primeros: hoy son mucho más completos y se asemejan a los de ordenadores de sobremesa y portátiles gracias a las mejoras en las capacidades de 
+			memoria y procesamiento de los dispositivos. Así, incorporan opciones como el historial, almacenaje de enlaces favoritos, opciones de personalización, 
+			pestañas o texto predictivo para facilitar la introducción de URL, entre otras.
+		</para>
+		<para>
+			En los últimos años se han ido adaptando además a las características de sus dispositivos: pantallas táctiles, que cambian de forma vertical a 
+			horizontal, soporte de formatos como HTML, zoom o ajuste de las páginas. La experiencia de navegación ha mejorado notablemente.
+		</para>
+		<para>
+			Aunque la mayor parte de los navegadores vienen instalados con sus propios sistemas operativos (Safari, Internet Explorer Mobile, Blackberry browser...), 
+			otros pueden instalarse de forma independiente. Es el caso de Opera en sus versiones Mini y Mobile y Fennec (Firefox for Mobile).
+		</para>
+		<para>
+			Opera Mini y Opera Mobile &lt;<link xl:href="http://www.opera.com/mobile/"/>&gt; se caracterizan por su rapidez, gracias a un sistema de compresión 
+			de datos que en el primero tiene lugar en sus servidores remotos y en el segundo en el propio teléfono. Entre sus cualidades están la gestión de 
+			bookmarks, el soporte de múltiples pestañas y página de inicio personaliza. Funciona sobre varios tipos de dispositivos: iPhone, Android, BlackBerry, 
+			Windows Mobile y Symbian.
+		</para>
+		<para>
+			Fennec &lt;<link xl:href="http://www.mozilla.com/es-ES/mobile/"/>&gt;, la versión móvil de Firefox, funciona para Android y Nokia Maemo. Entre sus opciones 
+			están la administración de contraseñas, permite extensiones y se pueden sincronizar contenidos desde el ordenador con la función Weave.
+		</para>
+		<informalfigure xreflabel="Fig 8">
+			<mediaobject>
+				<imageobject fileref="resource/INF-6-014.jpg"/>
+			</mediaobject>
+			<caption><para>Opera Mobile</para></caption>
+		</informalfigure>
+	</section>
+</chapter>
